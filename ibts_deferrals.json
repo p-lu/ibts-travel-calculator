@@ -1,0 +1,3030 @@
+[
+  {
+    "code": "AF",
+    "name": "Afghanistan",
+    "rawText": "There are a number of travel associated risks with Afghanistan.\nThere is a current risk for Malaria from\nMay to November in all areas except the central highlands\nIf you visited the country for a holiday or business trip that was under 6 months in duration within the last 12 months\nyou cannot donate for 365 days (1 year) from the date you leave the country as a visitor only e.g. a holiday / business trip of less than 6 months in duration.\nThere is a year round Dengue Fever risk for the whole country - it must be a minimum of 28 days since you left any part of the country before you can attend to  donate\nIf you lived in Afghanistan for a continues period of 6 months or longer at any time of your life the previous Malaria risk has to be taken into consideration\nPrevious Malaria Risk :\nAll year whole country until Feb 1996\nWhole country below 2000m (May-Nov) until Sept 2015\nThis also applies if you ever had\nmalaria associated with being in Afghanistan or any other malaria endemic area or\nhad an unexplained fever associated with being in Afghanistan or any other malaria endemic area\nSamples can be taken (but not a donation) to include a malaria antibody test:\nIf a minimum of 6 months have elapsed since you left any malaria area\nYou are fully recovered from malaria for at least 3 years (where applicable)\nYou are fully recovered from the unexplained fever for at least 6 months and it is 6 months since you left the malarial area\nYou will be able to attend a clinic 42 days later if the malaria test is negative ( the IBTS will contact you if the  test result is positive) .Once all other criteria are met on future visits a test for malaria will be carried out in our labs every time you donate.\nFor more information click\nmalaria",
+    "needsContact": true,
+    "deferrals": [
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "malaria"
+      },
+      {
+        "days": 28,
+        "from": "leave_country",
+        "reason": "dengue"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "AL",
+    "name": "Albania",
+    "rawText": "There is a West Nile Virus (WNV) risk  from the 01 May to 30 November in the whole country.\nThe IBTS tests blood donations for WNV during the most at risk seasons each year. While we are testing, you may be eligible to donate. Please contact us on our\nDonor Infoline 1800 731 137\nfor advice\n.",
+    "needsContact": true,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "DZ",
+    "name": "Algeria",
+    "rawText": "There are a number of travel associated risks in this country, please contact us on our\nDonor Infoline 1800 731 137\nfor advice\nif you visited the country for a holiday or business trip that was under 6 months in duration within the last 12 months.\nIf you lived in Algeria for a continuous period of 6 months or longer at any time of your life the\nprevious malaria\nrisk has to be taken into consideration:\nThe previous malaria risk was:All year in the whole country until Feb 1996 and from March 1996 to May 2019: desert oasis of Ihrir (Illizi Department) only\nThis also applies if you ever\nhad malaria\nhad an unexplained fever associated with being in Algeria during the time periods or any other malaria endemic area\nSamples can be taken (but not a donation) to include a malaria antibody test:\nIf a minimum of 6 months have elapsed since you left any malaria area\nYou are fully recovered from malaria for at least 3 years (where applicable)\nYou are fully recovered from the unexplained fever for at least 6 months and it is 6 months since you left the malarial area\nYou will be able to attend a clinic 42 days later if the malaria test is negative ( the IBTS will contact you if the  test result is positive) .Once all other criteria are met on future visits a test for malaria will be carried out in our labs every time you donate.\nFor more information click\nmalaria",
+    "needsContact": true,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "AS",
+    "name": "American Samoa",
+    "rawText": "Tropical illness, Chik V, Dengue and Zika Virus risk - You cannot donate for 90 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "chikungunya"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "",
+    "name": "Andaman & Nicobar Islands",
+    "rawText": "Due to the number of travel associated risks in this country, please contact us on our\nDonor Infoline 1800 731 137\nfor advice\n.",
+    "needsContact": true,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "AD",
+    "name": "Andorra",
+    "rawText": "No travel risks.\nThere is no airport in Andorra so please consider the country / airport you flew in and out of to get to Andorra",
+    "needsContact": false,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "AO",
+    "name": "Angola",
+    "rawText": "There is a malaria risk  all year round in the whole country.\nYou cannot donate for 365 days (1 year) from the date you leave the country as a visitor only e.g. a holiday / business trip of less than 6 months in duration.\nIf any of the risk factors listed below apply to you:\nYou lived at any time in any malarial endemic area for a continuous period of 6 months or more\nYou ever had malaria\nYou ever had an unexplained fever associated with any malarial endemic area\nSamples can be taken (but not a donation) to include a malaria antibody test:\nIf a minimum of 6 months have elapsed since you left any malaria area\nYou are fully recovered from malaria for at least 3 years (where applicable)\nYou are fully recovered from the unexplained fever for at least 6 months and it is 6 months since you left the malarial area\nYou will be able to attend a clinic 42 days later if the malaria test is negative ( the IBTS will contact you if the  test result is positive) .Once all other criteria are met on future visits a test for malaria will be carried out in our labs every time you donate.\nOther travel risks associated with Angola are topical illness Dengue and Zika virus.\nFor more information click\nmalaria",
+    "needsContact": true,
+    "deferrals": [
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "malaria"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "AI",
+    "name": "Anguilla",
+    "rawText": "Tropical illness, Chik V and Zika Virus risk - You cannot donate for 90 days from the date you leave the country.\nDengue Risk - You cannot donate for 28 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "chikungunya"
+      },
+      {
+        "days": 28,
+        "from": "leave_country",
+        "reason": "dengue"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "AQ",
+    "name": "Antartica",
+    "rawText": "No travel risks",
+    "needsContact": false,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "",
+    "name": "Antigua & Barbuda",
+    "rawText": "Tropical illness, Chik V and Zika Virus risk - You cannot donate for 90 days from the date you leave the country.\nDengue Risk - You cannot donate for 28 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "chikungunya"
+      },
+      {
+        "days": 28,
+        "from": "leave_country",
+        "reason": "dengue"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "AR",
+    "name": "Argentina",
+    "rawText": "Due to the number of travel associated risks in this country, please contact us on our\nDonor Infoline 1800 731 137\nfor advice\non how long you must wait to attend a clinic based on the part of the country you were in\nThe risks are of Tropical illness  all year round in the  Northern part of the country above the Tropic of Capricorn (but does not include Buenos Aires).\nZika Virus , Chik V and Dengue Virus risk is all year round in the whole country and\nIf you or your mother were born Argentina you cannot donate blood due to the risk of Chagas' disease\nThere was a previous Malaria risk for Argentina until February 1996  all year round in rural areas\nand from March 1996 to September 2006: between the months of October to May the risk was in areas below 1200m only.\nBetween  October 2006 to May 2019 the risk was all year round  in rural areas of Salta, Jujuy, Misiones and Corrientes\nIf any of the risk factors listed below apply to you:\nYou lived at any time in any malarial endemic area for a continuous period of 6 months or more at any time of your life\nYou ever had malaria\nYou ever had an unexplained fever associated with any malarial endemic area\nSamples can be taken (but not a donation) to include a malaria antibody test:\nIf a minimum of 6 months have elapsed since you left any malaria area\nYou are fully recovered from malaria for at least 3 years (where applicable)\nYou are fully recovered from the unexplained fever for at least 6 months and it is 6 months since you left the malarial area\nYou will be able to attend a clinic 42 days later if the malaria test is negative ( the IBTS will contact you if the  test result is positive) .Once all other criteria are met on future visits a test for malaria will be carried out in our labs every time you donate.\nPlease contact us on our\nDonor Infoline 1800 731 137\nfor advice\nabout your eligibility to have malaria testing done.\nFor more information click\nmalaria",
+    "needsContact": true,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "AM",
+    "name": "Armenia",
+    "rawText": "West Nile Virus (WNV) risk is from the 01 May to 30 November in the whole country.\nThe IBTS tests blood donations for WNV during the most at risk seasons each year. While we are testing, you may be eligible to donate. Please contact us on our\nDonor Infoline 1800 731 137\nfor advice.",
+    "needsContact": true,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "AW",
+    "name": "Aruba",
+    "rawText": "Tropical illness , Dengue and Zika Virus risk - You cannot donate for 90 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "zika"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "AU",
+    "name": "Australia",
+    "rawText": "Tropical illness risk is all year in Northern part only, above Tropic of Capricorn (includes Rockhampton, Mackay, Airlie Beach, Bowen, Townsville, Mission Beach and Cairns) -You cannot donate for 90 days from the date you leave the country.\nDengue virus risk all year north of Alice Springs - You cannot donate for 90 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "tropical_illness"
+      },
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "dengue"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "AT",
+    "name": "Austria",
+    "rawText": "West Nile Virus (WNV) risk is from the 01 May to 30 November in the whole country.\nThe IBTS tests blood donations for WNV during the most at risk seasons each year. While we are testing, you may be eligible to donate. Please contact us on our\nDonor Infoline 1800 731 137\nfor advice\n.",
+    "needsContact": true,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "AZ",
+    "name": "Azerbaijan",
+    "rawText": "There is a current malaria risk  between the Kura and Araz Rivers, there is no risk in Baku city.\nPlease contact us on our\nDonor Infoline 1800 731 137\nfor advice\nif you travelled to Azerbaijan as a visitor for a holiday or business trip of less than 6 months in duration in the last 12 months.\nIf any of the risk factors listed below apply to you:\nYou lived at any time in any malarial endemic area for a continuous period of 6 months or more\nYou ever had malaria\nYou ever had an unexplained fever associated with any malarial endemic area\nSamples can be taken (but not a donation) to include a malaria antibody test:\nIf a minimum of 6 months have elapsed since you left any malaria area\nYou are fully recovered from malaria for at least 3 years (where applicable)\nYou are fully recovered from the unexplained fever for at least 6 months and it is 6 months since you left the malarial area\nYou will be able to attend a clinic 42 days later if the malaria test is negative ( the IBTS will contact you if the  test result is positive) .Once all other criteria are met on future visits a test for malaria will be carried out in our labs every time you donate.\nFor more information click\nmalaria",
+    "needsContact": true,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "",
+    "name": "Azores",
+    "rawText": "No travel risks.",
+    "needsContact": false,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "BS",
+    "name": "Bahamas (The)",
+    "rawText": "Tropical illness risk is all year in Southern Islands only - You cannot donate for 90 days from the date you leave the country.\nChik V, Dengue and Zika Virus risk is all year in all islands -You cannot donate for 28 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "tropical_illness"
+      },
+      {
+        "days": 28,
+        "from": "leave_country",
+        "reason": "chikungunya"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "BH",
+    "name": "Bahrain",
+    "rawText": "MERS-CoV risk - You cannot donate for 28 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 28,
+        "from": "leave_country",
+        "reason": "travel"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "",
+    "name": "Balearic Islands",
+    "rawText": "No travel risk.",
+    "needsContact": false,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "ID",
+    "name": "Bali",
+    "rawText": "The island of Bali has no malaria risk. There is a tropical illness risk along with a Chik V and Dengue risk.\nIt must be 90 days from the day you left the island of Bali before you donate.\nThere is a risk of malaria associated with certain parts of Indonesia and islands which Bali is part of. Please contact us on our\nDonor Infoline 1800 731 137\nfor advice\nif you were in mainland Indonesia or other islands.\nClick on INDONESIA\nfor additional information",
+    "needsContact": true,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "BD",
+    "name": "Bangladesh",
+    "rawText": "There are a  number of travel associated risks in this country:\nThe Tropical illness risk is all year in Southern part of country, south of Tropic of Cancer (does not include Dhaka or Comilla)- this requires a minimum of 90 days from the time you leave the area before you attend a clinic\nThe  Dengue Risk , Zika Risk and  Chik V Risk affect the entire country all year round and require a minimum of 28 days from the day you leave the country before you attend a clinic\nThe current Malaria risk is all year in districts south and east of Comilla City. No risk in Dhaka city.\nYou cannot donate for 365 days (1 year) from the date you leave any area where Malaria is a risk   as a visitor only e.g. a holiday / business trip of less than 6 months in duration.\nThere was a previous malaria risk in the whole country until Sept 2015 ( all year round)\nIf any of the risk factors listed below apply to you:\nYou lived at any time in any malarial endemic area for a continuous period of 6 months or more\nYou ever had malaria\nYou ever had an unexplained fever associated with any malarial endemic area\nSamples can be taken (but not a donation) to include a malaria antibody test:\nIf a minimum of 6 months have elapsed since you left any malaria area\nYou are fully recovered from malaria for at least 3 years (where applicable)\nYou are fully recovered from the unexplained fever for at least 6 months and it is 6 months since you left the malarial area\nYou will be able to attend a clinic 42 days later if the malaria test is negative ( the IBTS will contact you if the  test result is positive) .Once all other criteria are met on future visits a test for malaria will be carried out in our labs every time you donate.\nFor more information click\nmalaria",
+    "needsContact": true,
+    "deferrals": [
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "malaria"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "BB",
+    "name": "Barbados",
+    "rawText": "Tropical illness, Dengue and Zika Virus risk - You cannot donate for 90 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "zika"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "BY",
+    "name": "Belarus",
+    "rawText": "No travel risk.",
+    "needsContact": false,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "BE",
+    "name": "Belgium",
+    "rawText": "No travel risk.",
+    "needsContact": false,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "BZ",
+    "name": "Belize",
+    "rawText": "There are a  number of travel associated risks in this country.\nThe Tropical risk applies to the whole country so it must be a minimum of 90 days from when you left the country before you attend to donate.\nThere is a malaria risk in  Stann Creek all year round\nif you visited this area  for a holiday or business trip that was under 6 months in duration within the last 12 months\nYou cannot donate for 365 days (1 year) from the date you leave this area of Belize\nDue to Chagas disease if you or your mother were born in Belize you will not be able to donate.\nDengue Risk - You cannot donate for 28 days from the date you leave the country.\nThere was a previous malaria risk for Belize in the whole country prior to December 2016.\nIf any of the risk factors listed below apply to you:\nYou lived at any time in any malarial endemic area for a continuous period of 6 months or more\nYou ever had malaria\nYou ever had an unexplained fever associated with any malarial endemic area\nSamples can be taken (but not a donation) to include a malaria antibody test:\nIf a minimum of 6 months have elapsed since you left any malaria area\nYou are fully recovered from malaria for at least 3 years (where applicable)\nYou are fully recovered from the unexplained fever for at least 6 months and it is 6 months since you left the malarial area\nYou will be able to attend a clinic 42 days later if the malaria test is negative ( the IBTS will contact you if the  test result is positive) .Once all other criteria are met on future visits a test for malaria will be carried out in our labs every time you donate.\nFor more information click\nmalaria",
+    "needsContact": true,
+    "deferrals": [
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "tropical_illness"
+      },
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "malaria"
+      },
+      {
+        "days": 28,
+        "from": "leave_country",
+        "reason": "dengue"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "BJ",
+    "name": "Benin",
+    "rawText": "The travel risks are Tropical illness, Viral Haemorrhagic Fever, and Chik V risk - There is also a year round malaria risk for the whole country\nDue to the year round risk of malaria\nyou cannot donate for 365 days (1 year) from the date you leave the country as a visitor only e.g. a holiday / business trip of less than 6 months in duration\nIf any of the risk factors listed below apply to you:\nYou lived at any time in any malarial endemic area for a continuous period of 6 months or more\nYou ever had malaria\nYou ever had an unexplained fever associated with any malarial endemic area\nSamples can be taken (but not a donation) to include a malaria antibody test:\nIf a minimum of 6 months have elapsed since you left any malaria area\nYou are fully recovered from malaria for at least 3 years (where applicable)\nYou are fully recovered from the unexplained fever for at least 6 months and it is 6 months since you left the malarial area\nYou will be able to attend a clinic 42 days later if the malaria test is negative ( the IBTS will contact you if the  test result is positive) .Once all other criteria are met on future visits a test for malaria will be carried out in our labs every time you donate.\nPlease contact us on the Donor Infoline  1800 731 137 if you have any queries\nFor more information click\nmalaria",
+    "needsContact": true,
+    "deferrals": [
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "malaria"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "BM",
+    "name": "Bermuda",
+    "rawText": "Due to the risk of Chik V Virus in the whole country all year round it has to be a minimum of 28 days from the date you left Bermuda before you can attend to donate.\nDengue Risk - You cannot donate for 28 days from the date you leave the country.\nPlease contact us on our\nDonor Infoline 1800 731 137 if you have any queries.",
+    "needsContact": true,
+    "deferrals": [
+      {
+        "days": 28,
+        "from": "leave_country",
+        "reason": "chikungunya"
+      },
+      {
+        "days": 28,
+        "from": "leave_country",
+        "reason": "dengue"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "BT",
+    "name": "Bhutan",
+    "rawText": "Due to the number of travel associated risks in this country, please contact us on our\nDonor Infoline 1800 731 137\nfor advice\n.",
+    "needsContact": true,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "BO",
+    "name": "Bolivia",
+    "rawText": "Due to the number of travel associated risks ( malaria risk, tropical risk ,Chik v & Zika virus risk)  in this country, please contact us on our\nDonor Infoline 1800 731 137\nfor advice\nif you visited the country for a holiday or business trip that was under 6 months in duration within the last 12 months.\nThere is a Malaria risk  all year round  in all areas below 2500m including in regions of Beni, Pando and Santa Cruz . There is No risk in La Paz city.\nThe Previous malaria risk was All year in various rural areas below 2500m until August 2009.\nThe malaria risk applies:\nif you spent 6 months or more in Bolivia for a continuous period at any time of your life\nif you ever had malaria\nif you had an unexplained fever associated with travel to Bolivia (or any other malaria area )\nDo a risk of Chagas disease If you or your mother were born in Bolivia you cannot donate , please go to Chagas disease entry in Travel FAQ's",
+    "needsContact": true,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "BQ",
+    "name": "Bonaire",
+    "rawText": "West Nile Virus (WNV) risk is from the 01 May to 30 November in the whole country.\nThe IBTS tests blood donations for WNV during the most at risk seasons each year. While we are testing, you may be eligible to donate. Please contact us on our\nDonor Infoline 1800 731 137\nfor advice\n.",
+    "needsContact": true,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "",
+    "name": "Borneo",
+    "rawText": "Malarial risk is present all year on the island of Borneo\nYou cannot donate for 365 days (1 year) from the date you leave the country as a visitor only e.g. a holiday / business trip of less than 6 months in duration.\nIf any of the risk factors listed below apply to you:\nYou lived at any time in any malarial endemic area for a continuous period of 6 months or more\nYou ever had malaria\nYou ever had an unexplained fever associated with any malarial endemic area\nSamples can be taken (but not a donation) to include a malaria antibody test:\nIf a minimum of 6 months have elapsed since you left any malaria area\nYou are fully recovered from malaria for at least 3 years (where applicable)\nYou are fully recovered from the unexplained fever for at least 6 months and it is 6 months since you left the malarial area\nYou will be able to attend a clinic 42 days later if the malaria test is negative ( the IBTS will contact you if the  test result is positive) .Once all other criteria are met on future visits a test for malaria will be carried out in our labs every time you donate.\nPlease contact us on the Donor Infoline  1800 731 137 if you have any queries",
+    "needsContact": true,
+    "deferrals": [
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "malaria"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "",
+    "name": "Bosnia & Herzegovina",
+    "rawText": "West Nile Virus risk is from  01 May  to  30 November  in the whole country. The IBTS tests for West Nile Virus during the most at risk season each year. While we are testing you may be able to donate . Please contact us on Donor Infoline 1800731 137 for advice.",
+    "needsContact": true,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "BW",
+    "name": "Botswana",
+    "rawText": "Due to the number of travel associated risks in this country, please contact us on our\nDonor Infoline 1800 731 137\nfor advice",
+    "needsContact": true,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "BR",
+    "name": "Brazil",
+    "rawText": "Due to the number of travel associated risks in this country, please contact us on our\nDonor Infoline 1800 731 137\nfor advice.",
+    "needsContact": true,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "VG",
+    "name": "British Virgin Islands",
+    "rawText": "Due to the number of travel associated risks in this country, please contact us on our\nDonor Infoline 1800 731 137\nfor advice\n.",
+    "needsContact": true,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "BN",
+    "name": "Brunei Darussalam",
+    "rawText": "Malaria, Tropical illness, Dengue and Zika Virus risk - You cannot donate for 365 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "zika"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "BG",
+    "name": "Bulgaria",
+    "rawText": "West Nile Virus (WNV) risk is from the 01 May to 30 November in the whole country.\nThe IBTS tests blood donations for WNV during the most at risk seasons each year. While we are testing, the deferral period of 28 days after leaving an at risk area does not apply.",
+    "needsContact": false,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "BF",
+    "name": "Burkina Faso",
+    "rawText": "Malaria, Tropical illness, Chik V, Dengue and Zika Virus risk - You cannot donate for 365 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "chikungunya"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "",
+    "name": "Burma (Myanmar)",
+    "rawText": "The travel risks are Tropical illness, Chic V & Zika Virus risk  and a Malaria risk  all year round in the whole country.\nYou cannot donate for 365 days (1 year) from the date you leave the country as a visitor only e.g. a holiday / business trip of less than 6 months in duration.\nIf any of the risk factors listed below apply to you:\nYou lived at any time in any malarial endemic area for a continuous period of 6 months or more\nYou ever had malaria\nYou ever had an unexplained fever associated with any malarial endemic area\nSamples can be taken (but not a donation) to include a malaria antibody test:\nIf a minimum of 6 months have elapsed since you left any malaria area\nYou are fully recovered from malaria for at least 3 years (where applicable)\nYou are fully recovered from the unexplained fever for at least 6 months and it is 6 months since you left the malarial area\nYou will be able to attend a clinic 42 days later if the malaria test is negative ( the IBTS will contact you if the  test result is positive) .Once all other criteria are met on future visits a test for malaria will be carried out in our labs every time you donate.\nPlease contact us on the Donor Infoline  1800 731 137 if you have any queries",
+    "needsContact": true,
+    "deferrals": [
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "zika"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "BI",
+    "name": "Burundi",
+    "rawText": "Malaria, Tropical illness, Chic V & Zika Virus risk -   You cannot donate for 365 days from the date you leave the country.\nDengue Risk - You cannot donate for 28 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "zika"
+      },
+      {
+        "days": 28,
+        "from": "leave_country",
+        "reason": "dengue"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "KH",
+    "name": "Cambodia",
+    "rawText": "Due to the number of travel associated risks in this country, please contact us on our\nDonor Infoline 1800 731 137\nfor advice\n.",
+    "needsContact": true,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "CM",
+    "name": "Cameroon",
+    "rawText": "Malaria, Tropical illness, Chic V & Zika Virus risk -   You cannot donate for 365 days from the date you leave the country.\nDengue Risk - You cannot donate for 28 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "zika"
+      },
+      {
+        "days": 28,
+        "from": "leave_country",
+        "reason": "dengue"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "CA",
+    "name": "Canada",
+    "rawText": "West Nile Virus (WNV) risk is from the 01 May to 30 November in the whole country.\nThe IBTS tests blood donations for WNV during the most at risk seasons each year. While we are testing, you may be eligible to donate. Please contact us on our\nDonor Infoline 1800 731 137\nfor advice\n.",
+    "needsContact": true,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "",
+    "name": "Canary Islands",
+    "rawText": "No travel risks.",
+    "needsContact": false,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "CV",
+    "name": "Cape Verde",
+    "rawText": "Due to the number of travel associated risks in this country, please contact us on our\nDonor Infoline 1800 731 137\nfor advice\n.",
+    "needsContact": true,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "KY",
+    "name": "Cayman Islands",
+    "rawText": "Tropical illness ,Dengue Virus and Zika Virus risk - You cannot donate for 90 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "zika"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "CF",
+    "name": "Central African Republic",
+    "rawText": "Malaria, Tropical illness, Chic V & Zika Virus risk -   You cannot donate for 365 days from the date you leave the country.\nDengue Risk - You cannot donate for 28 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "zika"
+      },
+      {
+        "days": 28,
+        "from": "leave_country",
+        "reason": "dengue"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "TD",
+    "name": "Chad",
+    "rawText": "Malaria, Chik V, Dengue and Tropical illness risk -   You cannot donate for 365 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "chikungunya"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "CL",
+    "name": "Chile",
+    "rawText": "Due to the number of travel associated risks in this country, please contact us on our\nDonor Infoline 1800 731 137\nfor advice\n.",
+    "needsContact": true,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "CN",
+    "name": "China",
+    "rawText": "Due to the number of travel associated risks in this country, please contact us on our\nDonor Infoline 1800 731 137\nfor advice\n.",
+    "needsContact": true,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "CX",
+    "name": "Christmas Island",
+    "rawText": "Tropical illness risk - You cannot donate for 90 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "tropical_illness"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "CC",
+    "name": "Cocos (Keeling) Island",
+    "rawText": "No travel risk.",
+    "needsContact": false,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "CO",
+    "name": "Colombia",
+    "rawText": "Due to the number of travel associated risks in this country, please contact us on our\nDonor Infoline 1800 731 137\nfor advice\n.",
+    "needsContact": true,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "KM",
+    "name": "Comoros",
+    "rawText": "Malaria, Tropical illness & Chic V risk - You cannot donate for 365 days from the date you leave the country.\nDengue Risk - You cannot donate for 28 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "malaria"
+      },
+      {
+        "days": 28,
+        "from": "leave_country",
+        "reason": "dengue"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "CG",
+    "name": "Congo (Democratic Republic Of)",
+    "rawText": "Malaria, Tropical illness, Chic V & Viral Haemorrhagic Fever risk -   You cannot donate for 365 days from the date you leave the country.\nDengue Risk - You cannot donate for 28 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "malaria"
+      },
+      {
+        "days": 28,
+        "from": "leave_country",
+        "reason": "dengue"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "CG",
+    "name": "Congo (Republic Of The)",
+    "rawText": "Malaria, Tropical illness, Chik V, Dengue & Viral Haemorrhagic Fever risk",
+    "needsContact": false,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "CK",
+    "name": "Cook Islands",
+    "rawText": "Tropical illness, Chik V and Zika Virus risk - You cannot donate for 90 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "chikungunya"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "CR",
+    "name": "Costa Rica",
+    "rawText": "You can not donate if you or your mother were born in Costa Rica due to the risk of Chagas disease.\nThere is a Malaria risk  all year round  in Limon province on the Caribbean coast and in the Alajuela province.\nYou cannot donate for 365 days (1 year) from the date you leave the area of the country where the malaria risk applies  as a visitor only e.g. a holiday / business trip of less than 6 months in duration.\nTropical illness risk is all year in whole country so it must be a minimum of 90 days since you left any part of the country before you can attend a clinic.\nThere was a previous malaria risk all year round the  in whole country until Dec 2011\nIf any of the risk factors listed below apply to you:\nYou lived at any time in any malarial endemic area for a continuous period of 6 months or more\nYou ever had malaria\nYou ever had an unexplained fever associated with any malarial endemic area\nSamples can be taken (but not a donation) to include a malaria antibody test:\nIf a minimum of 6 months have elapsed since you left any malaria area\nYou are fully recovered from malaria for at least 3 years (where applicable)\nYou are fully recovered from the unexplained fever for at least 6 months and it is 6 months since you left the malarial area\nYou will be able to attend a clinic 42 days later if the malaria test is negative ( the IBTS will contact you if the  test result is positive) .Once all other criteria are met on future visits a test for malaria will be carried out in our labs every time you donate.\nPlease contact us on the Donor Infoline  1800 731 137 if you have any queries",
+    "needsContact": true,
+    "deferrals": [
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "malaria"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "",
+    "name": "Cote D’Ivoire",
+    "rawText": "Malaria, Tropical illness, Viral Haemorrhagic Fever, Dengue and Zika Virus risk- You cannot donate for 365 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "zika"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "HR",
+    "name": "Croatia",
+    "rawText": "West Nile Virus (WNV) risk is from the 01 May to 30 November in the whole country.\nThe IBTS tests blood donations for WNV during the most at risk seasons each year. While we are testing, you may be eligible to donate. Please contact us on our\nDonor Infoline 1800 731 137\nfor advice.",
+    "needsContact": true,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "CU",
+    "name": "Cuba",
+    "rawText": "Tropical illness, West Nile Virus, Dengue Virus and Zika Virus risk - You cannot donate for 90 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "zika"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "NL",
+    "name": "Curacao",
+    "rawText": "Tropical illness and Zika Virus risk - You cannot donate for 90 days from the date you leave the country.\nDengue Risk - You cannot donate for 28 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "zika"
+      },
+      {
+        "days": 28,
+        "from": "leave_country",
+        "reason": "dengue"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "CY",
+    "name": "Cyprus",
+    "rawText": "West Nile Virus (WNV) risk is from the 01 May to 30 November in the whole country.\nThe Malaria risk dates from  August 1st  2017 and affects  Esentepe (also known as Agios Amvrosios)\nonly\n, which is in in the Kyrenia District in Northern Cyprus. There is no risk in other areas.\nThe IBTS tests blood donations for WNV during the most at risk seasons each year. While we are testing, you may be eligible to donate. Please contact us on our\nDonor Infoline 1800 731 137\nfor advice\n.",
+    "needsContact": true,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "",
+    "name": "Czech Repuplic",
+    "rawText": "West Nile Virus (WNV) risk is from the 01 May to 30 November in the whole country.\nThe IBTS tests blood donations for WNV during the most at risk seasons each year. While we are testing, you may be eligible to donate. Please contact us on our\nDonor Infoline 1800 731 137\nfor advice.",
+    "needsContact": true,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "DK",
+    "name": "Denmark",
+    "rawText": "No travel risks.",
+    "needsContact": false,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "DJ",
+    "name": "Djibouti",
+    "rawText": "Malaria, Tropical illness and Dengue Virus risk- You cannot donate for 365 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "dengue"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "DM",
+    "name": "Dominica",
+    "rawText": "Tropical illness, Chik V, Dengue and Zika Virus risk - You cannot donate for 90 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "chikungunya"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "DO",
+    "name": "Dominican Republic",
+    "rawText": "Malaria, Tropical illness, Chic V, Dengue & Zika Virus risk -   You cannot donate for 365 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "zika"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "",
+    "name": "East Timor",
+    "rawText": "Malaria, Tropical illness & Chic V risk - You cannot donate for 365 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "malaria"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "EC",
+    "name": "Ecuador",
+    "rawText": "Due to the number of travel associated risks in this country, please contact us on our\nDonor Infoline 1800 731 137\nfor advice\n.",
+    "needsContact": true,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "EG",
+    "name": "Egypt",
+    "rawText": "Tropical illness risk is all year in Southern part only, south of Tropic of Cancer\n(does not include cities of Cairo or Alexandria or the resorts of Sharm el Sheikh, Marsa Alam or Nabq Bay) - You cannot donate for 90 days from the date you leave the country.\nWest Nile Virus and Dengue Virus risk in whole county\n- You cannot donate for 28 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "tropical_illness"
+      },
+      {
+        "days": 28,
+        "from": "leave_country",
+        "reason": "dengue"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "SV",
+    "name": "El Salvador",
+    "rawText": "Due to the number of travel associated risks in this country, please contact us on our\nDonor Infoline 1800 731 137\nfor advice\n.",
+    "needsContact": true,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "",
+    "name": "Equitorial Guinea",
+    "rawText": "Malaria, Tropical illness & Chic V risk - You cannot donate for 365 days from the date you leave the country.\nDengue Risk - You cannot donate for 28 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "malaria"
+      },
+      {
+        "days": 28,
+        "from": "leave_country",
+        "reason": "dengue"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "ER",
+    "name": "Eritrea",
+    "rawText": "Due to the number of travel associated risks in this country, please contact us on our\nDonor Infoline 1800 731 137\nfor advice\n.",
+    "needsContact": true,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "EE",
+    "name": "Estonia",
+    "rawText": "No travel risks.",
+    "needsContact": false,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "SZ",
+    "name": "Eswatini (Formally Known As Swaziland)",
+    "rawText": "There is a malaria risk in the east of  this country, please contact us on our\nDonor Infoline 1800 731 137\nfor advice\n.\nYou cannot donate for 365 days (1 year) from the date you leave the at risk malaria area as a visitor only e.g. a holiday / business trip of less than 6 months in duration.\nIf any of the risk factors listed below apply to you:\nYou lived at any time in any malarial endemic area for a continuous period of 6 months or more\nYou ever had malaria\nYou ever had an unexplained fever associated with any malarial endemic area\nSamples can be taken (but not a donation) to include a malaria antibody test:\nIf a minimum of 6 months have elapsed since you left any malaria area\nYou are fully recovered from malaria for at least 3 years (where applicable)\nYou are fully recovered from the unexplained fever for at least 6 months and it is 6 months since you left the malarial area\nYou will be able to attend a clinic 42 days later if the malaria test is negative ( the IBTS will contact you if the  test result is positive) .Once all other criteria are met on future visits a test for malaria will be carried out in our labs every time you donate.",
+    "needsContact": true,
+    "deferrals": [
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "malaria"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "ET",
+    "name": "Ethiopia",
+    "rawText": "Due to the number of travel associated risks in this country, please contact us on our\nDonor Infoline 1800 731 137\nfor advice\n.",
+    "needsContact": true,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "FK",
+    "name": "Falkland Islands",
+    "rawText": "Zika Virus risk – You cannot donate for 28 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 28,
+        "from": "leave_country",
+        "reason": "zika"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "FO",
+    "name": "Faroe Islands",
+    "rawText": "No travel risks.",
+    "needsContact": false,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "FJ",
+    "name": "Fiji",
+    "rawText": "Tropical illness, Chik V and Zika Virus risk - You cannot donate for 90 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "chikungunya"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "FI",
+    "name": "Finland",
+    "rawText": "No travel risks.",
+    "needsContact": false,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "FR",
+    "name": "France",
+    "rawText": "Dengue risk\nis from the 01 May to 30 November in:\nThe departments/regions of:\nAlpes Maritimes (includes: Nice, the Cote d'Azur, Cannes, Antibes, Juan-les-Pins)\nAlpes-de-Haute-Provence\nBouches-du-Rhône (includes: Marseille, Aix-en-Provence)\nGard (includes: Nimes)\nHaute-Garonne(includes: Toulouse)\nHautes-Pyrenees (includes: Lourdes)\nHerault (includes: Montpellier, Sete, Beziers)\nPyrenees-Orientales (includes: Perpignan)\nVar (includes: Toulon)\nVaucluse (includes: Avignon)\nYou cannot donate for 28 days from the date you leave any of the regions listed above\nWest Nile Virus (WNV)\nrisk is from the 01 May to 30 November in:\nAlpes-Maritimes\nBouches-du-Rhône\nSeine-Saint-Denis\nHaute-Garonne\nHautes-Pyrenees\nHerault\nPyrenees-Orientales\nVar\nNouvelle Aquitaine Region( includes: Gironde, Charente-Maritime, Charente, Pyrenees-Atlantiques (including La Rochelle and Bordeaux).\nThe island of Corsica.\nVaucluse\nPuy-de Dome regions\nVal-d’Oise\nParis\nSeine-et-Marne\nYvelines\nEssonne\nHautes-de-Seine\nVal-de-Marne\nArdèche\nNouvelle-Aquitaine Region including Correze, Creuse, Landes, Lot-et-Garonne, Deux Sevres, Vienne, Haute-Vienne\nSeine Maritime\nYou can donate if you visited a West Nile Virus risk area, providing you were well as we test for WNV. You cannot donate for 28 days after visiting a Dengue Virus risk area.\nChickungunya Virus (Chik V)\nrisk is from 01 May to 30 November in:\nDordogne\nIsere\nBouche-de-Rhone\nCharente\nThe island of Corsica.\nAlpes Maritimes\nVar\nYou cannot donate for 28 days from the date you leave any of the regions listed above.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 28,
+        "from": "leave_country",
+        "reason": "dengue"
+      },
+      {
+        "days": 28,
+        "from": "travel",
+        "reason": "dengue"
+      },
+      {
+        "days": 28,
+        "from": "leave_country",
+        "reason": "chikungunya"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "GF",
+    "name": "French Guiana",
+    "rawText": "Due to the number of travel associated risks in this country, please contact us on our\nDonor Infoline 1800 731 137\nfor advice\n.",
+    "needsContact": true,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "PF",
+    "name": "French Polynesia",
+    "rawText": "Tropical illness, Chik V and Zika Virus risk - You cannot donate for 90 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "chikungunya"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "GA",
+    "name": "Gabon",
+    "rawText": "Malaria, Tropical illness, Chic V, Dengue & Zika Virus risk - You cannot donate for 365 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "zika"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "GM",
+    "name": "Gambia (The)",
+    "rawText": "Malaria,Tropical and Chik V ,Dengue Virus  illness risk - You cannot donate for 365 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "chikungunya"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "GE",
+    "name": "Georgia",
+    "rawText": "Due to the number of travel associated risks in this country, please contact us on our\nDonor Infoline 1800 731 137\nfor advice\n.",
+    "needsContact": true,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "DE",
+    "name": "Germany",
+    "rawText": "West Nile Virus (WNV) risk is from the 01 May to 30 November in the whole country.\nThe IBTS tests blood donations for WNV during the most at risk seasons each year. While we are testing, you may be eligible to donate. Please contact us on our\nDonor Infoline 1800 731 137\nfor advice",
+    "needsContact": true,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "GH",
+    "name": "Ghana",
+    "rawText": "Malaria risk is all year in the whole country\nYou cannot donate for 365 days (1 year) from the date you leave the country as a visitor only e.g. a holiday / business trip of less than 6 months in duration.\nIf any of the risk factors listed below apply to you:\nYou lived at any time in any malarial endemic area for a continuous period of 6 months or more\nYou ever had malaria\nYou ever had an unexplained fever associated with any malarial endemic area\nPlease click here for more information on Malaria\nSamples can be taken (but not a donation) to include a malaria antibody test:\nIf a minimum of 6 months have elapsed since you left any malaria area\nYou are fully recovered from malaria for at least 3 years (where applicable)\nYou are fully recovered from the unexplained fever for at least 6 months and it is 6 months since you left the malarial area\nYou will be able to attend a clinic 42 days later if the malaria test is negative ( the IBTS will contact you if the  test result is positive) .Once all other criteria are met on future visits a test for malaria will be carried out in our labs every time you donate.",
+    "needsContact": true,
+    "deferrals": [
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "malaria"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "GI",
+    "name": "Gibraltar",
+    "rawText": "No travel risks.",
+    "needsContact": false,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "GR",
+    "name": "Greece",
+    "rawText": "The malaria risk is in the whole country, including mainland Greece and the Greek Islands,\nbut not Athens\n, from May 1st 2017 to November 30th 2017.  There was no risk in the Greek Islands prior to 01 May 2017.  NB The malarial risk for donors to any part of Greece will end after 30 November 2017.\nWest Nile Virus risk is from 01 May to 30 November in the whole country (including Athens). The IBTS tests blood donations for WNV during the most at risk seasons each year. While we are testing, you may be eligible to donate. Please contact us on our\nDonor Infoline 1800 731 137\nfor advice.",
+    "needsContact": true,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "GL",
+    "name": "Greenland",
+    "rawText": "No travel risks.",
+    "needsContact": false,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "GD",
+    "name": "Grenada",
+    "rawText": "Tropical illness and Zika Virus risk - You cannot donate for 90 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "zika"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "FR",
+    "name": "Guadeloupe",
+    "rawText": "Tropical illness, Chic V, Dengue, Zika Virus and West Nile Virus risk is all year in whole country - You cannot donate for 90 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "zika"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "GU",
+    "name": "Guam",
+    "rawText": "Tropical illness risk - You cannot donate for 90 days from the date you leave the country.\nDengue Risk - You cannot donate for 28 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "tropical_illness"
+      },
+      {
+        "days": 28,
+        "from": "leave_country",
+        "reason": "dengue"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "GT",
+    "name": "Guatemala",
+    "rawText": "Due to the number of travel associated risks in this country, please contact us on our\nDonor Infoline 1800 731 137\nfor advice\n.",
+    "needsContact": true,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "GN",
+    "name": "Guinea",
+    "rawText": "Malaria, Tropical illness, Chic V , Dengue Virus & Viral haemorrhagic Fever risk - You cannot donate for 365 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "dengue"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "",
+    "name": "Guinea – Bissau",
+    "rawText": "Malaria, Tropical illness, Chic V & Zika Virus risk and Viral hemorrhagic fever (VHF) -\nYou cannot donate for 365 days (1 year) from the date you leave the country as a visitor only e.g. a holiday / business trip of less than 6 months in duration.\nIf any of the risk factors listed below apply to you:\nYou lived at any time in any malarial endemic area for a continuous period of 6 months or more\nYou ever had malaria\nYou ever had an unexplained fever associated with any malarial endemic area\nSamples can be taken (but not a donation) to include a malaria antibody test:\nIf a minimum of 6 months have elapsed since you left any malaria area\nYou are fully recovered from malaria for at least 3 years (where applicable)\nYou are fully recovered from the unexplained fever for at least 6 months and it is 6 months since you left the malarial area\nYou will be able to attend a clinic 42 days later if the malaria test is negative ( the IBTS will contact you if the  test result is positive) .Once all other criteria are met on future visits a test for malaria will be carried out in our labs every time you donate.\nPlease contact us on the Donor Infoline  1800 731 137 if you have any queries",
+    "needsContact": true,
+    "deferrals": [
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "zika"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "GY",
+    "name": "Guyana",
+    "rawText": "Due to the number of travel associated risks in this country, please contact us on our\nDonor Infoline 1800 731 137\nfor advice\n.\nIf you or your mother were born in Guyana you will not be able to donate blood due to the risk of Chagas disease.\nThere is a Malaria risk  all year round  in most of country except for Amsterdam, Georgetown and the coast. Travel to the affected areas will mean\nyou cannot donate for 365 days (1 year) from the date you leave the country as a visitor only e.g. a holiday / business trip of less than 6 months in duration.\nThe Tropical illness risk is all year in whole country with no exception this requires you to have left a minimum of 90 days prior to being eligible to attend a clinic to donate ( unless the malarial risk applies )\nThere is a previous malaria risk  that was all year, in the whole country until Sept 2015\nIf any of the risk factors listed below apply to you:\nYou lived at any time in any malarial endemic area for a continuous period of 6 months or more\nYou ever had malaria\nYou ever had an unexplained fever associated with any malarial endemic area\nSamples can be taken (but not a donation) to include a malaria antibody test:\nIf a minimum of 6 months have elapsed since you left any malaria area\nYou are fully recovered from malaria for at least 3 years (where applicable)\nYou are fully recovered from the unexplained fever for at least 6 months and it is 6 months since you left the malarial area\nYou will be able to attend a clinic 42 days later if the malaria test is negative ( the IBTS will contact you if the  test result is positive) .Once all other criteria are met on future visits a test for malaria will be carried out in our labs every time you donate.\nPlease contact us on the Donor Infoline  1800 731 137 if you have any queries",
+    "needsContact": true,
+    "deferrals": [
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "malaria"
+      },
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "malaria"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "HT",
+    "name": "Haiti",
+    "rawText": "Malaria, Tropical illness, Chic V & Zika Virus risk - You cannot donate for 365 days from the date you leave the country.\nDengue Risk - You cannot donate for 28 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "zika"
+      },
+      {
+        "days": 28,
+        "from": "leave_country",
+        "reason": "dengue"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "HN",
+    "name": "Honduras",
+    "rawText": "Malaria, Tropical illness, Chic V, Dengue & Zika Virus risk - You cannot donate for 365 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "zika"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "HK",
+    "name": "Hong Kong",
+    "rawText": "Tropical illness risk - You cannot donate for 90 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "tropical_illness"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "HU",
+    "name": "Hungary",
+    "rawText": "West Nile Virus (WNV) risk is from the 01 May to 30 November in the whole country.\nThe IBTS tests blood donations for WNV during the most at risk seasons each year. While we are testing, you may be eligible to donate. Please contact us on our\nDonor Infoline 1800 731 137\nfor advice\n.",
+    "needsContact": true,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "IS",
+    "name": "Iceland",
+    "rawText": "No travel risks.",
+    "needsContact": false,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "IN",
+    "name": "India",
+    "rawText": "Due to the number of travel associated risks in this country, please contact us on our\nDonor Infoline 1800 731 137\nfor advice\n.",
+    "needsContact": true,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "ID",
+    "name": "Indonesia",
+    "rawText": "Due to the number of travel associated risks in this country, please contact us on our\nDonor Infoline 1800 731 137\nfor advice\n.",
+    "needsContact": true,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "IR",
+    "name": "Iran",
+    "rawText": "Due to the number of travel associated risks in this country, please contact us on our\nDonor Infoline 1800 731 137\nfor advice\n.",
+    "needsContact": true,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "IQ",
+    "name": "Iraq",
+    "rawText": "Due to the number of travel associated risks in this country, please contact us on our\nDonor Infoline 1800 731 137\nfor advice\n.",
+    "needsContact": true,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "IL",
+    "name": "Israel",
+    "rawText": "West Nile Virus (WNV) risk is from the 01 May to 30 November in the whole country.\nThe IBTS tests blood donations for WNV during the most at risk seasons each year. While we are testing, you may be eligible to donate. Please contact us on our\nDonor Infoline 1800 731 137\nfor advice\n.",
+    "needsContact": true,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "IT",
+    "name": "Italy",
+    "rawText": "West Nile Virus (WNV) risk\nis from the 01 May to 30 November in the whole country.\nThe IBTS tests blood donations for WNV during the most at risk seasons each year. While we are testing, you may be eligible to donate. Please contact us on our\nDonor Infoline 1800 731 137\nfor advice\n.\nDengue risk\nfrom 01 May to 30 November in Lombardy, Lazio, Marche and Emilia-Romagna regions. You cannot donate for 28 days after leaving the Lombardy, Lazio, Marche and Emilia-Romagna regions.\nChickungunya Virus (Chik V)\nrisk is from 01 May to 30 November in Emilia Romagna and Verona regions. You cannot donate for 28 days from the date you leave Emilia Romagna and Verona regions.",
+    "needsContact": true,
+    "deferrals": [
+      {
+        "days": 28,
+        "from": "travel",
+        "reason": "dengue"
+      },
+      {
+        "days": 28,
+        "from": "leave_country",
+        "reason": "chikungunya"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "JM",
+    "name": "Jamaica",
+    "rawText": "Tropical illness, Chik V, Dengue and Zika Virus risk - You cannot donate for 90 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "chikungunya"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "JP",
+    "name": "Japan",
+    "rawText": "No risks",
+    "needsContact": false,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "JO",
+    "name": "Jordan",
+    "rawText": "MERS-CoV risk is all year in whole country - You cannot donate for 28 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 28,
+        "from": "leave_country",
+        "reason": "travel"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "KZ",
+    "name": "Kazakhstan",
+    "rawText": "No travel risks.",
+    "needsContact": false,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "KE",
+    "name": "Kenya",
+    "rawText": "Please contact us on our\nDonor Infoline 1800 731 137\nfor advice\ni\nf you visited Kenya for a holiday or business trip that was under 6 months in duration within he last 12 months due to the number of travel associated risks in this country,\nThere is a risk of malaria in most parts of the country\nIf any of the risk factors listed below apply to you:\nYou lived at any time in any malarial endemic area for a continuous period of 6 months or more\nYou ever had malaria\nYou ever had an unexplained fever associated with any malarial endemic area\nPlease click here for more information on Malaria\nSamples can be taken (but not a donation) to include a malaria antibody test:\nIf a minimum of 6 months have elapsed since you left any malaria area\nYou are fully recovered from malaria for at least 3 years (where applicable)\nYou are fully recovered from the unexplained fever for at least 6 months and it is 6 months since you left the malarial area\nYou will be able to attend a clinic 42 days later if the malaria test is negative ( the IBTS will contact you if the  test result is positive) .Once all other criteria are met on future visits a test for malaria will be carried out in our labs every time you donate.",
+    "needsContact": true,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "KI",
+    "name": "Kiribati",
+    "rawText": "Tropical illness and Chik V risk - You cannot donate for 90 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "chikungunya"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "",
+    "name": "Korea –North",
+    "rawText": "Due to the number of travel associated risks in this country, please contact us on our\nDonor Infoline 1800 731 137\nfor advice\n.",
+    "needsContact": true,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "",
+    "name": "Korea –South",
+    "rawText": "Due to the number of travel associated risks in this country, please contact us on our\nDonor Infoline 1800 731 137\nfor advice\n.",
+    "needsContact": true,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "RS",
+    "name": "Kosovo",
+    "rawText": "West Nile Virus (WNV) risk is from the 01 May to 30 November in the whole country.\nThe IBTS tests blood donations for WNV during the most at risk seasons each year. While we are testing, you may be eligible to donate. Please contact us on our\nDonor Infoline 1800 731 137\nfor advice\n.",
+    "needsContact": true,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "KW",
+    "name": "Kuwait",
+    "rawText": "MERS-CoV risk is all year in whole country - You cannot donate for 28 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 28,
+        "from": "leave_country",
+        "reason": "travel"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "KG",
+    "name": "Kyrgyzstan",
+    "rawText": "No travel risks.",
+    "needsContact": false,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "LA",
+    "name": "Laos",
+    "rawText": "There is a Malaria risk all year round in the  whole country EXCEPT for  Vientiane ( the capital of Laos)\nYou cannot donate for 365 days (1 year) from the date you leave the country as a visitor only e.g. a holiday / business trip of less than 6 months in duration unless your visit was only to Vientiane.\nTropical illness Chik V, Dengue and Zika virus risk in whole country  - You cannot donate for 90 days from the date you leave the country ( this risk applies to all of Laos)\nIf any of the risk factors listed below apply to you:\nYou lived at any time in any malarial endemic area for a continuous period of 6 months or more\nYou ever had malaria\nYou ever had an unexplained fever associated with any malarial endemic area\nSamples can be taken (but not a donation) to include a malaria antibody test:\nIf a minimum of 6 months have elapsed since you left any malaria area\nYou are fully recovered from malaria for at least 3 years (where applicable)\nYou are fully recovered from the unexplained fever for at least 6 months and it is 6 months since you left the malarial area\nYou will be able to attend a clinic 42 days later if the malaria test is negative ( the IBTS will contact you if the  test result is positive) .Once all other criteria are met on future visits a test for malaria will be carried out in our labs every time you donate.\nPlease contact us on the Donor Infoline  1800 731 137 if you have any queries",
+    "needsContact": true,
+    "deferrals": [
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "malaria"
+      },
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "chikungunya"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "LV",
+    "name": "Latvia",
+    "rawText": "No travel risks.",
+    "needsContact": false,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "LB",
+    "name": "Lebanon",
+    "rawText": "No travel risks.",
+    "needsContact": false,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "LS",
+    "name": "Lesotho",
+    "rawText": "Due to the number of travel associated risks in this country, please contact us on our\nDonor Infoline 1800 731 137\nfor advice\n.",
+    "needsContact": true,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "LR",
+    "name": "Liberia",
+    "rawText": "The risks are for Tropical illness, Chic V & Viral haemorrhagic Fever risk  and a year round risk for malaria for the whole country\nDengue Risk - You cannot donate for 28 days from the date you leave the country.\nYou cannot donate for 365 days (1 year) from the date you leave the country as a visitor only e.g. a holiday / business trip of less than 6 months in duration.\nIf any of the risk factors listed below apply to you:\nYou lived at any time in any malarial endemic area for a continuous period of 6 months or more\nYou ever had malaria\nYou ever had an unexplained fever associated with any malarial endemic area\nSamples can be taken (but not a donation) to include a malaria antibody test:\nIf a minimum of 6 months have elapsed since you left any malaria area\nYou are fully recovered from malaria for at least 3 years (where applicable)\nYou are fully recovered from the unexplained fever for at least 6 months and it is 6 months since you left the malarial area\nYou will be able to attend a clinic 42 days later if the malaria test is negative ( the IBTS will contact you if the  test result is positive) .Once all other criteria are met on future visits a test for malaria will be carried out in our labs every time you donate.\nPlease contact us on the Donor Infoline  1800 731 137 if you have any queries",
+    "needsContact": true,
+    "deferrals": [
+      {
+        "days": 28,
+        "from": "leave_country",
+        "reason": "dengue"
+      },
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "dengue"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "LY",
+    "name": "Libya",
+    "rawText": "Tropical illness risk is all year in Southern part only, south of Tropic of Cancer - You cannot donate for 90 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "tropical_illness"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "",
+    "name": "Lichenstein",
+    "rawText": "No travel risks.",
+    "needsContact": false,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "",
+    "name": "Liechtenstien",
+    "rawText": "No travel risks.",
+    "needsContact": false,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "LT",
+    "name": "Lithuania",
+    "rawText": "No travel risks.",
+    "needsContact": false,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "LU",
+    "name": "Luxembourg",
+    "rawText": "No travel risks.",
+    "needsContact": false,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "MO",
+    "name": "Macao",
+    "rawText": "Tropical illness risk - You cannot donate for 90 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "tropical_illness"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "MK",
+    "name": "Macedonia",
+    "rawText": "West Nile Virus (WNV) risk is from the 01 May to 30 November in the whole country.\nThe IBTS tests blood donations for WNV during the most at risk seasons each year. While we are testing, you may be eligible to donate. Please contact us on our\nDonor Infoline 1800 731 137\nfor advice\n.",
+    "needsContact": true,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "MG",
+    "name": "Madagascar",
+    "rawText": "Malaria, Tropical illness and Chic V risk - You cannot donate for 365 days from the date you leave the country.\nDengue Risk - You cannot donate for 28 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "malaria"
+      },
+      {
+        "days": 28,
+        "from": "leave_country",
+        "reason": "dengue"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "PT",
+    "name": "Madeira",
+    "rawText": "Dengue Virus risk – You cannot donate for 28 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 28,
+        "from": "leave_country",
+        "reason": "dengue"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "MW",
+    "name": "Malawi",
+    "rawText": "Malaria, Tropical illness and Chic V risk - You cannot donate for 365 days from the date you leave the country.\nDengue Risk - You cannot donate for 28 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "malaria"
+      },
+      {
+        "days": 28,
+        "from": "leave_country",
+        "reason": "dengue"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "MY",
+    "name": "Malaysia",
+    "rawText": "Due to the number of travel associated risks in this country, please contact us on our\nDonor Infoline 1800 731 137\nfor advice\n.",
+    "needsContact": true,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "MV",
+    "name": "Maldives",
+    "rawText": "Tropical illness, Chik V and Zika Virus risk - You cannot donate for 90 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "chikungunya"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "ML",
+    "name": "Mali",
+    "rawText": "Travel risks are Viral Haemorrhagic Fever, Chik V , Dengue Virus and Tropical illness risk\nMalaria risk is all year in the whole country\nYou cannot donate for 365 days (1 year) from the date you leave the country as a visitor only e.g. a holiday / business trip of less than 6 months in duration.\nIf any of the risk factors listed below apply to you:\nYou lived at any time in any malarial endemic area for a continuous period of 6 months or more\nYou ever had malaria\nYou ever had an unexplained fever associated with any malarial endemic area\nPlease click here for more information on Malaria\nSamples can be taken (but not a donation) to include a malaria antibody test:\nIf a minimum of 6 months have elapsed since you left any malaria area\nYou are fully recovered from malaria for at least 3 years (where applicable)\nYou are fully recovered from the unexplained fever for at least 6 months and it is 6 months since you left the malarial area\nYou will be able to attend a clinic 42 days later if the malaria test is negative ( the IBTS will contact you if the  test result is positive) .Once all other criteria are met on future visits a test for malaria will be carried out in our labs every time you donate.",
+    "needsContact": true,
+    "deferrals": [
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "malaria"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "MT",
+    "name": "Malta",
+    "rawText": "No travel risks.",
+    "needsContact": false,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "MH",
+    "name": "Marshall Islands",
+    "rawText": "Tropical illness, Chik V, Dengue Virus and Zika Virus risk - You cannot donate for 90 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "chikungunya"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "MQ",
+    "name": "Martinique",
+    "rawText": "Tropical illness, Chik V, Dengue and Zika Virus risk - You cannot donate for 90 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "chikungunya"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "MR",
+    "name": "Mauritania",
+    "rawText": "There is a Malaria risk  all year round in the whole country.\nYou cannot donate for 365 days (1 year) from the date you leave the country as a visitor only e.g. a holiday / business trip of less than 6 months in duration.\nIf any of the risk factors listed below apply to you:\nYou lived at any time in any malarial endemic area for a continuous period of 6 months or more\nYou ever had malaria\nYou ever had an unexplained fever associated with any malarial endemic area\nSamples can be taken (but not a donation) to include a malaria antibody test:\nIf a minimum of 6 months have elapsed since you left any malaria area\nYou are fully recovered from malaria for at least 3 years (where applicable)\nYou are fully recovered from the unexplained fever for at least 6 months and it is 6 months since you left the malarial area\nYou will be able to attend a clinic 42 days later if the malaria test is negative ( the IBTS will contact you if the  test result is positive) .Once all other criteria are met on future visits a test for malaria will be carried out in our labs every time you donate.\nPlease contact us on the Donor Infoline  1800 731 137 if you have any queries",
+    "needsContact": true,
+    "deferrals": [
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "malaria"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "MU",
+    "name": "Mauritius",
+    "rawText": "Tropical illness, Chik V and Dengue Virus risk - You cannot donate for 90 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "chikungunya"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "FR",
+    "name": "Mayotte",
+    "rawText": "Travel risks are Tropical illness, Chic V and Dengue Virus risk and a Malaria risk is all year round  in the whole country.\nYou cannot donate for 365 days (1 year) from the date you leave the country as a visitor only e.g. a holiday / business trip of less than 6 months in duration.\nIf any of the risk factors listed below apply to you:\nYou lived at any time in any malarial endemic area for a continuous period of 6 months or more\nYou ever had malaria\nYou ever had an unexplained fever associated with any malarial endemic area\nSamples can be taken (but not a donation) to include a malaria antibody test:\nIf a minimum of 6 months have elapsed since you left any malaria area\nYou are fully recovered from malaria for at least 3 years (where applicable)\nYou are fully recovered from the unexplained fever for at least 6 months and it is 6 months since you left the malarial area\nYou will be able to attend a clinic 42 days later if the malaria test is negative ( the IBTS will contact you if the  test result is positive) .Once all other criteria are met on future visits a test for malaria will be carried out in our labs every time you donate.\nPlease contact us on the Donor Infoline  1800 731 137 if you have any queries\n.",
+    "needsContact": true,
+    "deferrals": [
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "dengue"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "MX",
+    "name": "Mexico",
+    "rawText": "Due to the number of travel associated risks in this country, please contact us on our\nDonor Infoline 1800 731 137\nfor advice\n.",
+    "needsContact": true,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "FM",
+    "name": "Micronesia (Federated States Of)",
+    "rawText": "Includes Yap Island, Pohnpei, Chuuk, and Kosrae.\nDengue Risk - You cannot donate for 28 days from the date you leave the country.\nTropical illness and Zika Virus risk - You cannot donate for 90 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 28,
+        "from": "leave_country",
+        "reason": "dengue"
+      },
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "zika"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "MD",
+    "name": "Moldova",
+    "rawText": "West Nile Virus (WNV) risk is from the 01 May to 30 November in the whole country.\nThe IBTS tests blood donations for WNV during the most at risk seasons each year. While we are testing, you may be eligible to donate. Please contact us on our\nDonor Infoline 1800 731 137\nfor advice\n.",
+    "needsContact": true,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "MC",
+    "name": "Monaco",
+    "rawText": "Dengue Virus risk is from the 01 May to 30 November in the whole country - You cannot donate for 28 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 28,
+        "from": "leave_country",
+        "reason": "dengue"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "MN",
+    "name": "Mongolia",
+    "rawText": "No travel risks.",
+    "needsContact": false,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "ME",
+    "name": "Montenegro",
+    "rawText": "West Nile Virus (WNV) risk is from the 01 May to 30 November in the whole country.\nThe IBTS tests blood donations for WNV during the most at risk seasons each year. While we are testing, you may be eligible to donate. Please contact us on our\nDonor Infoline 1800 731 137\nfor advice\n.",
+    "needsContact": true,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "MS",
+    "name": "Montserrat",
+    "rawText": "Tropical illness, Dengue, Chik V and Zika Virus risk - You cannot donate for 90 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "chikungunya"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "MA",
+    "name": "Morocco",
+    "rawText": "No travel risks.",
+    "needsContact": false,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "MZ",
+    "name": "Mozambique",
+    "rawText": "Travel risks are Dengue Virus & Tropical illness risk and a Malaria risk is all year round in the whole country.\nYou cannot donate for 365 days (1 year) from the date you leave the country as a visitor only e.g. a holiday / business trip of less than 6 months in duration.\nIf any of the risk factors listed below apply to you:\nYou lived at any time in any malarial endemic area for a continuous period of 6 months or more\nYou ever had malaria\nYou ever had an unexplained fever associated with any malarial endemic area\nSamples can be taken (but not a donation) to include a malaria antibody test:\nIf a minimum of 6 months have elapsed since you left any malaria area\nYou are fully recovered from malaria for at least 3 years (where applicable)\nYou are fully recovered from the unexplained fever for at least 6 months and it is 6 months since you left the malarial area\nYou will be able to attend a clinic 42 days later if the malaria test is negative ( the IBTS will contact you if the  test result is positive) .Once all other criteria are met on future visits a test for malaria will be carried out in our labs every time you donate.\nPlease contact us on the Donor Infoline  1800 731 137 if you have any queries.",
+    "needsContact": true,
+    "deferrals": [
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "dengue"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "NA",
+    "name": "Namibia",
+    "rawText": "Due to  the malaria and tropical risks associated with  this country, please contact us on our\nDonor Infoline 1800 731 137\nfor advice\n.\nYou cannot donate for 365 days (1 year) from the date you leave certain parts of the country as a visitor only e.g. a holiday / business trip of less than 6 months in duration. There is also a tropical illness risk associated with the northern part of the country which requires a visitor to have left the area a minimum of 90 days prior to being able to donate\nIf any of the risk factors listed below apply to you:\nYou lived at any time in any malarial endemic area for a continuous period of 6 months or more\nYou ever had malaria\nYou ever had an unexplained fever associated with any malarial endemic area\nSamples can be taken (but not a donation) to include a malaria antibody test:\nIf a minimum of 6 months have elapsed since you left any malaria area\nYou are fully recovered from malaria for at least 3 years (where applicable)\nYou are fully recovered from the unexplained fever for at least 6 months and it is 6 months since you left the malarial area\nYou will be able to attend a clinic 42 days later if the malaria test is negative ( the IBTS will contact you if the  test result is positive) .Once all other criteria are met on future visits a test for malaria will be carried out in our labs every time you donate.\nPlease contact us on the Donor Infoline  1800 731 137 if you have any queries.",
+    "needsContact": true,
+    "deferrals": [
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "malaria"
+      },
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "tropical_illness"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "NR",
+    "name": "Nauru",
+    "rawText": "Tropical illness and Chik V risk - You cannot donate for 90 days from the date you leave the country.\nDengue Risk - You cannot donate for 28 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "chikungunya"
+      },
+      {
+        "days": 28,
+        "from": "leave_country",
+        "reason": "dengue"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "NP",
+    "name": "Nepal",
+    "rawText": "There is a Malaria risk  all year round  in the  low lying areas in the South of the country. If you have  flown to Kathmandu and stayed within the Himalayan area only there is no risk.\nIf you have travelled overland from the Indian border and have travelled in the Southern lower plains along the Indian border a malaria risk will be applied.\nYou cannot donate for 365 days (1 year) from the date you leave the area of the  country  considered to be at risk of malaria as a visitor only e.g. a holiday / business trip of less than 6 months in duration.\nDengue Virus risk is all year in the whole country - any visitor to the country will not be able to donate for a minimum of 28 days from when you left (even for the areas considered non malarial risk areas)\nThere was a previous malaria risk in the whole country until September 2006\nIf any of the risk factors listed below apply to you:\nYou lived at any time in any malarial endemic area for a continuous period of 6 months or more\nYou ever had malaria\nYou ever had an unexplained fever associated with any malarial endemic area\nSamples can be taken (but not a donation) to include a malaria antibody test:\nIf a minimum of 6 months have elapsed since you left any malaria area\nYou are fully recovered from malaria for at least 3 years (where applicable)\nYou are fully recovered from the unexplained fever for at least 6 months and it is 6 months since you left the malarial area\nYou will be able to attend a clinic 42 days later if the malaria test is negative ( the IBTS will contact you if the  test result is positive) .Once all other criteria are met on future visits a test for malaria will be carried out in our labs every time you donate.\nPlease contact us on the Donor Infoline  1800 731 137 if you have any queries",
+    "needsContact": true,
+    "deferrals": [
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "malaria"
+      },
+      {
+        "days": 28,
+        "from": "leave_country",
+        "reason": "dengue"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "NL",
+    "name": "Netherlands",
+    "rawText": "No travel risk.",
+    "needsContact": false,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "",
+    "name": "Netherlands Antilles (Former)",
+    "rawText": "Tropical illness, Chik V and Zika Virus risk - You cannot donate for 90 days from the date you leave the country.\nDengue Risk - You cannot donate for 28 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "chikungunya"
+      },
+      {
+        "days": 28,
+        "from": "leave_country",
+        "reason": "dengue"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "",
+    "name": "New Caledonia & Dependencies",
+    "rawText": "Tropical illness, Chik V, Dengue and Zika Virus risk - You cannot donate for 90 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "chikungunya"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "NZ",
+    "name": "New Zealand",
+    "rawText": "No travel risks.",
+    "needsContact": false,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "NG",
+    "name": "Niger",
+    "rawText": "Travel risks are  Dengue Virus and Tropical illness risk -\nMalaria risk is all year in the whole country\nYou cannot donate for 365 days (1 year) from the date you leave the country as a visitor only e.g. a holiday / business trip of less than 6 months in duration.\nIf any of the risk factors listed below apply to you:\nYou lived at any time in any malarial endemic area for a continuous period of 6 months or more\nYou ever had malaria\nYou ever had an unexplained fever associated with any malarial endemic area\nPlease click here for more information on Malaria\nSamples can be taken (but not a donation) to include a malaria antibody test:\nIf a minimum of 6 months have elapsed since you left any malaria area\nYou are fully recovered from malaria for at least 3 years (where applicable)\nYou are fully recovered from the unexplained fever for at least 6 months and it is 6 months since you left the malarial area\nYou will be able to attend a clinic 42 days later if the malaria test is negative ( the IBTS will contact you if the  test result is positive) .Once all other criteria are met on future visits a test for malaria will be carried out in our labs every time you donate.\nFor more information click\nmalaria",
+    "needsContact": true,
+    "deferrals": [
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "malaria"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "NG",
+    "name": "Nigeria",
+    "rawText": "There is a malaria risk is all year in the whole country\nYou cannot donate for 365 days (1 year) from the date you leave the country as a visitor only e.g. a holiday / business trip of less than 6 months in duration.\nIf any of the risk factors listed below apply to you:\nYou lived at any time in any malarial endemic area for a continuous period of 6 months or more\nYou ever had malaria\nYou ever had an unexplained fever associated with any malarial endemic area\nSamples can be taken (but not a donation) to include a malaria antibody test:\nIf a minimum of 6 months have elapsed since you left any malaria area\nYou are fully recovered from malaria for at least 3 years (where applicable)\nYou are fully recovered from the unexplained fever for at least 6 months and it is 6 months since you left the malarial area\nYou will be able to attend a clinic 42 days later if the malaria test is negative ( the IBTS will contact you if the  test result is positive) .Once all other criteria are met on future visits a test for malaria will be carried out in our labs every time you donate.\nOther travel risks:  Tropical illness, Chic V, Dengue Virus ,Zika Virus & Viral haemorrhagic Fever risk\nPlease contact us on the Donor Infoline  1800 731 137 if you have any queries\nFor more information click\nmalaria",
+    "needsContact": true,
+    "deferrals": [
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "malaria"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "NU",
+    "name": "Niue",
+    "rawText": "Tropical illness and  Chik V risk - You cannot donate for 90 days from the date you leave the country.\nDengue Risk - You cannot donate for 28 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "chikungunya"
+      },
+      {
+        "days": 28,
+        "from": "leave_country",
+        "reason": "dengue"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "NF",
+    "name": "Norfolk Island",
+    "rawText": "No travel risk.",
+    "needsContact": false,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "MP",
+    "name": "Northern Mariana Islands",
+    "rawText": "Tropical illness risk - You cannot donate for 90 days from the date you leave the country.\nDengue Risk - You cannot donate for 28 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "tropical_illness"
+      },
+      {
+        "days": 28,
+        "from": "leave_country",
+        "reason": "dengue"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "NO",
+    "name": "Norway",
+    "rawText": "No travel risk.",
+    "needsContact": false,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "OM",
+    "name": "Oman",
+    "rawText": "Due to the number of travel associated risks in this country, please contact us on our\nDonor Infoline 1800 731 137\nfor advice\n.",
+    "needsContact": true,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "PK",
+    "name": "Pakistan",
+    "rawText": "Travel risks are  Chic V ,  Dengue Virus risk and a Malaria risk  all year round  in the whole country\nYou cannot donate for 365 days (1 year) from the date you leave the country as a visitor only e.g. a holiday / business trip of less than 6 months in duration.\nIf any of the risk factors listed below apply to you:\nYou lived at any time in any malarial endemic area for a continuous period of 6 months or more\nYou ever had malaria\nYou ever had an unexplained fever associated with any malarial endemic area\nSamples can be taken (but not a donation) to include a malaria antibody test:\nIf a minimum of 6 months have elapsed since you left any malaria area\nYou are fully recovered from malaria for at least 3 years (where applicable)\nYou are fully recovered from the unexplained fever for at least 6 months and it is 6 months since you left the malarial area\nYou will be able to attend a clinic 42 days later if the malaria test is negative ( the IBTS will contact you if the  test result is positive) .Once all other criteria are met on future visits a test for malaria will be carried out in our labs every time you donate.\nPlease contact us on the Donor Infoline  1800 731 137 if you have any queries",
+    "needsContact": true,
+    "deferrals": [
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "dengue"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "PW",
+    "name": "Palau",
+    "rawText": "Tropical illness and Zika Virus risk - You cannot donate for 90 days from the date you leave the country.\nDengue Risk - You cannot donate for 28 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "zika"
+      },
+      {
+        "days": 28,
+        "from": "leave_country",
+        "reason": "dengue"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "PS",
+    "name": "Palestine (The State Of, Includes; Gaza, West Bank And East Jerusalem)",
+    "rawText": "West Nile Virus (WNV) risk\nis from the 01 May to 30 November in the whole country.\nThe IBTS tests blood donations for WNV during the most at risk seasons each year. While we are testing, you may be eligible to donate. Please contact us on our\nDonor Infoline 1800 731 137\nfor advice\n.",
+    "needsContact": true,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "PA",
+    "name": "Panama",
+    "rawText": "Due to the number of travel associated risks in this country, please contact us on our\nDonor Infoline 1800 731 137\nfor advice\n.\nIf you or your mother were born in Panama you will not be able to donate due to the risk of Chagas disease.\nThere is a current malaria risk  all year round  in the  whole country with the exception of the  Canal Zone and Panama City.\nThere was a previous malaria risk all  year round in the  whole country until December  2011\nThere is a Tropical illness risk is all year in whole country: you must have left any part of the country a minimum of 90 days  before you can attend to donate.\nYou cannot donate for 365 days (1 year) from the date you leave a part of the  country at risk of malaria as a visitor only e.g. a holiday / business trip of less than 6 months in duration.\nIf any of the risk factors listed below apply to you:\nYou lived at any time in any malarial endemic area for a continuous period of 6 months or more\nYou ever had malaria\nYou ever had an unexplained fever associated with any malarial endemic area\nSamples can be taken (but not a donation) to include a malaria antibody test:\nIf a minimum of 6 months have elapsed since you left any malaria area\nYou are fully recovered from malaria for at least 3 years (where applicable)\nYou are fully recovered from the unexplained fever for at least 6 months and it is 6 months since you left the malarial area\nYou will be able to attend a clinic 42 days later if the malaria test is negative ( the IBTS will contact you if the  test result is positive) .Once all other criteria are met on future visits a test for malaria will be carried out in our labs every time you donate.\nPlease contact us on the Donor Infoline  1800 731 137 if you have any queries",
+    "needsContact": true,
+    "deferrals": [
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "tropical_illness"
+      },
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "malaria"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "PG",
+    "name": "Papua New Guinea",
+    "rawText": "Malaria, Tropical illness, Dengue and Zika Virus risk - You cannot donate for 365 days from the date you leave the country.\nYou cannot donate for 365 days (1 year) from the date you leave the country as a visitor only e.g. a holiday / business trip of less than 6 months in duration.\nIf any of the risk factors listed below apply to you:\nYou lived at any time in any malarial endemic area for a continuous period of 6 months or more\nYou ever had malaria\nYou ever had an unexplained fever associated with any malarial endemic area\nSamples can be taken (but not a donation) to include a malaria antibody test:\nIf a minimum of 6 months have elapsed since you left any malaria area\nYou are fully recovered from malaria for at least 3 years (where applicable)\nYou are fully recovered from the unexplained fever for at least 6 months and it is 6 months since you left the malarial area\nYou will be able to attend a clinic 42 days later if the malaria test is negative ( the IBTS will contact you if the  test result is positive) .Once all other criteria are met on future visits a test for malaria will be carried out in our labs every time you donate.\nPlease contact us on the Donor Infoline  1800 731 137 if you have any queries",
+    "needsContact": true,
+    "deferrals": [
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "zika"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "PY",
+    "name": "Paraguay",
+    "rawText": "Due to the number of travel associated risks in this country, please contact us on our\nDonor Infoline 1800 731 137\nfor advice\n.\nIf you or your mother was born in Paraguay you will not be able to donate due to a risk of Chagas disease.\nThere is no current  risk of malaria in any part of the country however there was a previous malaria risk:\nUntil February 1996 all year round in the  whole country from March 1996 to September 2006 and  between October to May in rural areas and\nfrom October 2006 to June 2018: all year in the Alto Parana and Caaguazú departments\nIf any of the risk factors listed below apply to you:\nYou lived at any time in any malarial endemic area for a continuous period of 6 months or more\nYou ever had malaria\nYou ever had an unexplained fever associated with any malarial endemic area\nSamples can be taken (but not a donation) to include a malaria antibody test:\nIf a minimum of 6 months have elapsed since you left any malaria area\nYou are fully recovered from malaria for at least 3 years (where applicable)\nYou are fully recovered from the unexplained fever for at least 6 months and it is 6 months since you left the malarial area\nYou will be able to attend a clinic 42 days later if the malaria test is negative ( the IBTS will contact you if the  test result is positive) .Once all other criteria are met on future visits a test for malaria will be carried out in our labs every time you donate.\nPlease contact us on the Donor Infoline  1800 731 137 if you have any queries",
+    "needsContact": true,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "PE",
+    "name": "Peru",
+    "rawText": "Due to the number of travel associated risks including malaria in certain regions and risk of tropical illness in this country, please contact us on our\nDonor Infoline 1800 731 137\nfor advice\n.\nIf you or your mother were born in Peru you will not be able to donate because of the risk of Chagas disease.\nIf any of the risk factors listed below apply to you:\nYou lived at any time in any malarial endemic area for a continuous period of 6 months or more ( but not born in Peru)\nYou ever had malaria\nYou ever had an unexplained fever associated with any malarial endemic area\nSamples can be taken (but not a donation) to include a malaria antibody test:\nIf a minimum of 6 months have elapsed since you left any malaria area\nYou are fully recovered from malaria for at least 3 years (where applicable)\nYou are fully recovered from the unexplained fever for at least 6 months and it is 6 months since you left the malarial area\nYou will be able to attend a clinic 42 days later if the malaria test is negative ( the IBTS will contact you if the  test result is positive) .Once all other criteria are met on future visits a test for malaria will be carried out in our labs every time you donate.",
+    "needsContact": true,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "",
+    "name": "Phillipines",
+    "rawText": "Due to the number of travel associated risks in this country, please contact us on our\nDonor Infoline 1800 731 137\nfor advice\n.\nThere is a malaria risk is all year in various parts of  the country.\nThere is also a tropical illness risk for the whole country - you cannot donate for a minimum of 90 days after you have left any part of the country.\nYou cannot donate for 365 days (1 year) from the date you leave certain areas affected by malaria  as a visitor only e.g. a holiday / business trip of less than 6 months in duration.\nIf any of the risk factors listed below apply to you:\nYou lived at any time in any malarial endemic area for a continuous period of 6 months or more\nYou ever had malaria\nYou ever had an unexplained fever associated with any malarial endemic area\nSamples can be taken (but not a donation) to include a malaria antibody test:\nIf a minimum of 6 months have elapsed since you left any malaria area\nYou are fully recovered from malaria for at least 3 years (where applicable)\nYou are fully recovered from the unexplained fever for at least 6 months and it is 6 months since you left the malarial area\nYou will be able to attend a clinic 42 days later if the malaria test is negative ( the IBTS will contact you if the  test result is positive) .Once all other criteria are met on future visits a test for malaria will be carried out in our labs every time you donate.\nPlease contact us on the Donor Infoline  1800 731 137 if you have any queries",
+    "needsContact": true,
+    "deferrals": [
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "tropical_illness"
+      },
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "malaria"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "",
+    "name": "Pitcairn Islands",
+    "rawText": "Tropical illness risk - You cannot donate for 90 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "tropical_illness"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "PL",
+    "name": "Poland",
+    "rawText": "No travel risks.",
+    "needsContact": false,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "PT",
+    "name": "Portugal",
+    "rawText": "West Nile Virus risk is from 01 May to 30 November in The Algarve area only; including cities of Faro, Albufeira, Lagos, Olhao & Portimao and the resorts of Vilamoura, Praia de Rocha and Alvor.\nThe IBTS tests blood donations for WNV during the most at risk seasons each year. While we are testing, you may be eligible to donate. Please contact us on our\nDonor Infoline 1800 731 137\nfor advice\n.",
+    "needsContact": true,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "PR",
+    "name": "Puerto Rico",
+    "rawText": "Tropical illness, Chik V, Dengue and Zika Virus risk - You cannot donate for 90 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "chikungunya"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "QA",
+    "name": "Qatar",
+    "rawText": "MERS-CoV risk is all year in whole country - You cannot donate for 28 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 28,
+        "from": "leave_country",
+        "reason": "travel"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "",
+    "name": "Reunion Islands",
+    "rawText": "Tropical illness, Chik V and Dengue Virus risk - You cannot donate for 90 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "chikungunya"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "RO",
+    "name": "Romania",
+    "rawText": "West Nile Virus (WNV) risk is from the 01 May to 30 November in the whole country.\nThe IBTS tests blood donations for WNV during the most at risk seasons each year. While we are testing, you may be eligible to donate. Please contact us on our\nDonor Infoline 1800 731 137\nfor advice\n.",
+    "needsContact": true,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "RU",
+    "name": "Russia",
+    "rawText": "West Nile Virus (WNV) risk is from the 01 May to 30 November in the whole country.\nThe IBTS tests blood donations for WNV during the most at risk seasons each year. While we are testing, you may be eligible to donate. Please contact us on our\nDonor Infoline 1800 731 137\nfor advice\n.",
+    "needsContact": true,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "RW",
+    "name": "Rwanda",
+    "rawText": "Malaria risk and Marburg Fever risk is all year in the whole country.\nYou cannot donate for 365 days (1 year) from the date you leave the country as a visitor only e.g. a holiday / business trip of less than 6 months in duration.\nIf any of the risk factors listed below apply to you:\nYou lived at any time in any malarial endemic area for a continuous period of 6 months or more\nYou ever had malaria\nYou ever had an unexplained fever associated with any malarial endemic area\nPlease click here for more information on Malaria\nSamples can be taken (but not a donation) to include a malaria antibody test:\nIf a minimum of 6 months have elapsed since you left any malaria area\nYou are fully recovered from malaria for at least 3 years (where applicable)\nYou are fully recovered from the unexplained fever for at least 6 months and it is 6 months since you left the malarial area\nYou will be able to attend a clinic 42 days later if the malaria test is negative ( the IBTS will contact you if the  test result is positive) .Once all other criteria are met on future visits a test for malaria will be carried out in our labs every time you donate.",
+    "needsContact": true,
+    "deferrals": [
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "malaria"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "WS",
+    "name": "Samoa",
+    "rawText": "Tropical illness and Zika Virus risk - You cannot donate for 90 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "zika"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "SM",
+    "name": "San Marino",
+    "rawText": "No travel risks.",
+    "needsContact": false,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "",
+    "name": "Sao Tome & Principe",
+    "rawText": "Travel risks are  Dengue Virus and Tropical illness risk -   You cannot donate for 365 days from the date you leave the country.\nMalaria risk is all year in the whole country\nYou cannot donate for 365 days (1 year) from the date you leave the country as a visitor only e.g. a holiday / business trip of less than 6 months in duration.\nIf any of the risk factors listed below apply to you:\nYou lived at any time in any malarial endemic area for a continuous period of 6 months or more\nYou ever had malaria\nYou ever had an unexplained fever associated with any malarial endemic area\nSamples can be taken (but not a donation) to include a malaria antibody test:\nIf a minimum of 6 months have elapsed since you left any malaria area\nYou are fully recovered from malaria for at least 3 years (where applicable)\nYou are fully recovered from the unexplained fever for at least 6 months and it is 6 months since you left the malarial area\nYou will be able to attend a clinic 42 days later if the malaria test is negative ( the IBTS will contact you if the  test result is positive) .Once all other criteria are met on future visits a test for malaria will be carried out in our labs every time you donate.\nPlease contact us on the Donor Infoline  1800 731 137 if you have any queries",
+    "needsContact": true,
+    "deferrals": [
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "dengue"
+      },
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "malaria"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "SA",
+    "name": "Saudi Arabia",
+    "rawText": "Due to the number of travel associated risks in this country, please contact us on our\nDonor Infoline 1800 731 137\nfor advice\n.\nThere is a Malaria risk  all year in the South and West provinces. There is no risk in the Eastern, Northern and Central provinces,  Jeddah, Mecca, Medina, Riyadh or Taif.\nYou cannot donate for 365 days (1 year) from the date you leave the malaria at risk areas as a visitor only e.g. a holiday / business trip of less than 6 months in duration.\nThere is a Tropical illness risk  all year in the  Southern part of the country only, south of Tropic of Cancer ( this includes Jeddah and Mecca but not  Riyadh). For visitors only to the southern part of the country it must be a minimum of 90 days since you left the affected area before you can attend to donate.\nThere is a Dengue virus risk is all year in whole country and a Mers CoV risk is all year in whole country it must be a minimum of 28 days since you left the affected area before you can attend to donate.",
+    "needsContact": true,
+    "deferrals": [
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "malaria"
+      },
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "tropical_illness"
+      },
+      {
+        "days": 28,
+        "from": "leave_country",
+        "reason": "dengue"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "SN",
+    "name": "Senegal",
+    "rawText": "Travel Risks Tropical illness, Chic V, Zika Virus & Viral haemorrhagic Fever risk\nMalaria risk is all year in the whole country\nYou cannot donate for 365 days (1 year) from the date you leave the country as a visitor only e.g. a holiday / business trip of less than 6 months in duration.\nIf any of the risk factors listed below apply to you:\nYou lived at any time in any malarial endemic area for a continuous period of 6 months or more\nYou ever had malaria\nYou ever had an unexplained fever associated with any malarial endemic area\nSamples can be taken (but not a donation) to include a malaria antibody test:\nIf a minimum of 6 months have elapsed since you left any malaria area\nYou are fully recovered from malaria for at least 3 years (where applicable)\nYou are fully recovered from the unexplained fever for at least 6 months and it is 6 months since you left the malarial area\nYou will be able to attend a clinic 42 days later if the malaria test is negative ( the IBTS will contact you if the  test result is positive) .Once all other criteria are met on future visits a test for malaria will be carried out in our labs every time you donate.\nPlease contact us on the Donor Infoline  1800 731 137 if you have any queries",
+    "needsContact": true,
+    "deferrals": [
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "malaria"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "RS",
+    "name": "Serbia",
+    "rawText": "West Nile Virus (WNV) risk is from the 01 May to 30 November in the whole country.\nThe IBTS tests blood donations for WNV during the most at risk seasons each year. While we are testing, you may be eligible to donate. Please contact us on our\nDonor Infoline 1800 731 137\nfor advice\n.",
+    "needsContact": true,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "SC",
+    "name": "Seychelles",
+    "rawText": "Tropical illness, Chik V and Dengue Virus risk - You cannot donate for 90 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "chikungunya"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "SL",
+    "name": "Sierra Leone",
+    "rawText": "Travel risks are Tropical illness, Chic V & Viral haemorrhagic Fever risk -\nDengue Risk - You cannot donate for 28 days from the date you leave the country.\nMalaria risk is all year in the whole country\nYou cannot donate for 365 days (1 year) from the date you leave the country as a visitor only e.g. a holiday / business trip of less than 6 months in duration.\nIf any of the risk factors listed below apply to you:\nYou lived at any time in any malarial endemic area for a continuous period of 6 months or more\nYou ever had malaria\nYou ever had an unexplained fever associated with any malarial endemic area\nSamples can be taken (but not a donation) to include a malaria antibody test:\nIf a minimum of 6 months have elapsed since you left any malaria area\nYou are fully recovered from malaria for at least 3 years (where applicable)\nYou are fully recovered from the unexplained fever for at least 6 months and it is 6 months since you left the malarial area\nYou will be able to attend a clinic 42 days later if the malaria test is negative ( the IBTS will contact you if the  test result is positive) .Once all other criteria are met on future visits a test for malaria will be carried out in our labs every time you donate.\nPlease contact us on the Donor Infoline  1800 731 137 if you have any queries",
+    "needsContact": true,
+    "deferrals": [
+      {
+        "days": 28,
+        "from": "leave_country",
+        "reason": "dengue"
+      },
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "malaria"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "SG",
+    "name": "Singapore",
+    "rawText": "Tropical illness, Chik V, Zika Virus and Dengue Virus risk - You cannot donate for 90 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "chikungunya"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "SK",
+    "name": "Slovakia",
+    "rawText": "West Nile Virus (WNV) risk is from the 01 May to 30 November in the whole country.\nThe IBTS tests blood donations for WNV during the most at risk seasons each year. While we are testing, you may be eligible to donate. Please contact us on our\nDonor Infoline 1800 731 137\nfor advice",
+    "needsContact": true,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "SI",
+    "name": "Slovenia",
+    "rawText": "West Nile Virus (WNV) risk is from the 01 May to 30 November in the whole country.\nThe IBTS tests blood donations for WNV during the most at risk seasons each year. While we are testing, you may be eligible to donate. Please contact us on our\nDonor Infoline 1800 731 137\nfor advice",
+    "needsContact": true,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "SB",
+    "name": "Solomon Islands",
+    "rawText": "Tropical illness risk and Malaria risk is all year in the whole country.\nYou cannot donate for 365 days (1 year) from the date you leave the country as a visitor only e.g. a holiday / business trip of less than 6 months in duration.\nIf any of the risk factors listed below apply to you:\nYou lived at any time in any malarial endemic area for a continuous period of 6 months or more\nYou ever had malaria\nYou ever had an unexplained fever associated with any malarial endemic area\nSamples can be taken (but not a donation) to include a malaria antibody test:\nIf a minimum of 6 months have elapsed since you left any malaria area\nYou are fully recovered from malaria for at least 3 years (where applicable)\nYou are fully recovered from the unexplained fever for at least 6 months and it is 6 months since you left the malarial area\nYou will be able to attend a clinic 42 days later if the malaria test is negative ( the IBTS will contact you if the  test result is positive) .Once all other criteria are met on future visits a test for malaria will be carried out in our labs every time you donate.\nPlease contact us on the Donor Infoline 1800 731 137 with any queries.",
+    "needsContact": true,
+    "deferrals": [
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "malaria"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "SO",
+    "name": "Somalia",
+    "rawText": "Travel risks include Tropical illness, Chic V and Dengue Virus risk. The Malaria risk is all year in the whole country.\nYou cannot donate for 365 days (1 year) from the date you leave the country as a visitor only e.g. a holiday / business trip of less than 6 months in duration due to the risk of malaria.\nIf any of the risk factors listed below apply to you:\nYou lived at any time in any malarial endemic area for a continuous period of 6 months or more\nYou ever had malaria\nYou ever had an unexplained fever associated with any malarial endemic area\nPlease click here for more information on Malaria\nSamples can be taken (but not a donation) to include a malaria antibody test:\nIf a minimum of 6 months have elapsed since you left any malaria area\nYou are fully recovered from malaria for at least 3 years (where applicable)\nYou are fully recovered from the unexplained fever for at least 6 months and it is 6 months since you left the malarial area\nYou will be able to attend a clinic 42 days later if the malaria test is negative ( the IBTS will contact you if the  test result is positive) .Once all other criteria are met on future visits a test for malaria will be carried out in our labs every time you donate.\nPlease contact us on the Donor Infoline  1800 731 137 if you have any queries",
+    "needsContact": true,
+    "deferrals": [
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "malaria"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "ZA",
+    "name": "South Africa",
+    "rawText": "Due to the number of travel associated risks in this country, please contact us on our\nDonor Infoline 1800 731 137\nfor advice\n.\nChik V risk\nis all year in whole country – you cannot donate for 28 days from the date you leave the country ( NB the malaria risk may impact whether you can donate or not)\nThe current Malaria risk\nis all year in some areas in the North East of country (Mpumalanga and Limpopoprovinces) including Kruger National Park, Limpopo Transfrontier Park, Hans Merensky Nature Reserveand Nwanedi National Park. There is no risk in Sun City, Johannesburg or Pretoria.\nYou cannot donate for 365 days (1 year) from the date you leave the areas listed above  as a visitor only e.g. a holiday / business trip of less than 6 months in duration.\nIf any of the risk factors listed below apply to you:\nYou lived at any time in any malarial endemic area for a continuous period of 6 months or more\nYou ever had malaria\nYou ever had an unexplained fever associated with any malarial endemic area\nSamples can be taken (but not a donation) to include a malaria antibody test:\nIf a minimum of 6 months have elapsed since you left any malaria area\nYou are fully recovered from malaria for at least 3 years (where applicable)\nYou are fully recovered from the unexplained fever for at least 6 months and it is 6 months since you left the malarial area\nYou will be able to attend a clinic 42 days later if the malaria test is negative ( the IBTS will contact you if the  test result is positive) .Once all other criteria are met on future visits a test for malaria will be carried out in our labs every time you donate.",
+    "needsContact": true,
+    "deferrals": [
+      {
+        "days": 28,
+        "from": "leave_country",
+        "reason": "malaria"
+      },
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "malaria"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "SS",
+    "name": "South Sudan",
+    "rawText": "Travel risks are Tropical illness, Dengue, Chik V Virus risk  and Malaria risk is all year in the whole country\nYou cannot donate for 365 days (1 year) from the date you leave the country as a visitor only e.g. a holiday / business trip of less than 6 months in duration due to the risk of malaria.\nIf any of the risk factors listed below apply to you:\nYou lived at any time in any malarial endemic area for a continuous period of 6 months or more\nYou ever had malaria\nYou ever had an unexplained fever associated with any malarial endemic area\nPlease click here for more information on Malaria\nSamples can be taken (but not a donation) to include a malaria antibody test:\nIf a minimum of 6 months have elapsed since you left any malaria area\nYou are fully recovered from malaria for at least 3 years (where applicable)\nYou are fully recovered from the unexplained fever for at least 6 months and it is 6 months since you left the malarial area\nYou will be able to attend a clinic 42 days later if the malaria test is negative ( the IBTS will contact you if the  test result is positive) .Once all other criteria are met on future visits a test for malaria will be carried out in our labs every time you donate.\nPlease contact us on the Donor Infoline 1800 731 137 if you have any queries",
+    "needsContact": true,
+    "deferrals": [
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "chikungunya"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "ES",
+    "name": "Spain",
+    "rawText": "West Nile Virus risk is from 01 May to 30 November in the region of\nAndalucía and the provinces of  Toledo, Tarragona\n,\nBadajoz, Barcelona,  Valencia and Cáceres\nonly.\nWest Nile Virus risk is from 01 May to 30 November in Alicante.\nDengue Virus Risk is in the Tarragona province.\nTarragona Province\nis located in the North East of Spain and includes Costa Dorada (cities of Salou and Cambril).You cannot donate for 28 days after leaving this area.\nAndalucia is a region in the south of Spain. It includes the cities of Seville, Malaga, Cordoba and Granada. Included are Costa del Sol, Costa Tropical and Almeria.\nCáceres province (which contains Cáceres city) and Badajoz province are located in the autonomous region of Extremadura. They sit above the provinces of Seville and Huelva.\nBarcelona Province ( which contains Barcelona city) located in the autonomous community of Catalonia\nThe Valencia province is located on the east coast and includes the city of Valencia.\nThe Toledo Province is located in central Spain and includes the city of Toledo.\nThe IBTS tests blood donations for WNV during the most at risk seasons each year. While we are testing, you may be eligible to donate. Please contact us on our\nDonor Infoline 1800 731 137\nfor advice\n.",
+    "needsContact": true,
+    "deferrals": [
+      {
+        "days": 28,
+        "from": "travel",
+        "reason": "dengue"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "LK",
+    "name": "Sri Lanka",
+    "rawText": "Tropical illness, Chik V and Dengue risk - You cannot donate for 90 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "chikungunya"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "",
+    "name": "St. Barthelemy",
+    "rawText": "Tropical illness, Chik V and Zika Virus risk - You cannot donate for 90 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "chikungunya"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "",
+    "name": "St. Helena",
+    "rawText": "Tropical illness risk and Zika Virus - You cannot donate for 90 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "zika"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "",
+    "name": "St. Kitts & Nevis",
+    "rawText": "Tropical illness and Zika Virus risk - You cannot donate for 90 days from the date you leave the country.\nDengue Risk - You cannot donate for 28 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "zika"
+      },
+      {
+        "days": 28,
+        "from": "leave_country",
+        "reason": "dengue"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "",
+    "name": "St. Lucia",
+    "rawText": "Tropical illness and Zika Virus risk - You cannot donate for 90 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "zika"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "",
+    "name": "St. Martin (Sint Maareten)",
+    "rawText": "Tropical illness and Zika Virus risk - You cannot donate for 90 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "zika"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "",
+    "name": "St. Pierre & Miquelon",
+    "rawText": "Tropical illness and Zika Virus risk - You cannot donate for 90 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "zika"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "",
+    "name": "St. Vincent & Grenadines",
+    "rawText": "Tropical illness and Zika Virus risk - You cannot donate for 90 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "zika"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "SD",
+    "name": "Sudan",
+    "rawText": "Travel risks are Tropical illness, Dengue & Viral haemorrhagic Fever risk - and Malaria risk is all year in the whole country\nYou cannot donate for 365 days (1 year) from the date you leave the country as a visitor only e.g. a holiday / business trip of less than 6 months in duration.\nIf any of the risk factors listed below apply to you:\nYou lived at any time in any malarial endemic area for a continuous period of 6 months or more\nYou ever had malaria\nYou ever had an unexplained fever associated with any malarial endemic area\nPlease click here for more information on Malaria\nSamples can be taken (but not a donation) to include a malaria antibody test:\nIf a minimum of 6 months have elapsed since you left any malaria area\nYou are fully recovered from malaria for at least 3 years (where applicable)\nYou are fully recovered from the unexplained fever for at least 6 months and it is 6 months since you left the malarial area\nYou will be able to attend a clinic 42 days later if the malaria test is negative ( the IBTS will contact you if the  test result is positive) .Once all other criteria are met on future visits a test for malaria will be carried out in our labs every time you donate.",
+    "needsContact": true,
+    "deferrals": [
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "dengue"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "SR",
+    "name": "Suriname",
+    "rawText": "If you or your mother were born in Suriname you will not be able to donate due to a risk of Chagas disease.\nDengue Risk - You cannot donate for 28 days from the date you leave the country.\nThere is a Malaria risk all year in all areas except: Paramaribo City, coastal regions and savannah areas. Please contact us on our\nDonor Infoline 1800 731 137\nfor advice\n.\nYou cannot donate for 365 days (1 year) from the date you leave an area affected by malaria as a visitor only e.g. a holiday / business trip of less than 6 months in duration.\nThere was a malaria risk in the whole country up until 2011.\nIf any of the risk factors listed below apply to you:\nYou lived at any time in any malarial endemic area for a continuous period of 6 months or more\nYou ever had malaria\nYou ever had an unexplained fever associated with any malarial endemic area\nSamples can be taken (but not a donation) to include a malaria antibody test:\nIf a minimum of 6 months have elapsed since you left any malaria area\nYou are fully recovered from malaria for at least 3 years (where applicable)\nYou are fully recovered from the unexplained fever for at least 6 months and it is 6 months since you left the malarial area\nYou will be able to attend a clinic 42 days later if the malaria test is negative ( the IBTS will contact you if the  test result is positive) .Once all other criteria are met on future visits a test for malaria will be carried out in our labs every time you donate.\nPlease contact us on our\nDonor Infoline 1800 731 137\nfor advice\n.",
+    "needsContact": true,
+    "deferrals": [
+      {
+        "days": 28,
+        "from": "leave_country",
+        "reason": "dengue"
+      },
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "malaria"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "SJ",
+    "name": "Svalbard",
+    "rawText": "No travel risks.",
+    "needsContact": false,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "SE",
+    "name": "Sweden",
+    "rawText": "No travel risks.",
+    "needsContact": false,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "CH",
+    "name": "Switzerland",
+    "rawText": "No travel risks.",
+    "needsContact": false,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "SY",
+    "name": "Syria",
+    "rawText": "Malaria & and West Nile Virus risk in whole country -\nMalaria risk is all year in the whole country\nYou cannot donate for 365 days (1 year) from the date you leave the country as a visitor only e.g. a holiday / business trip of less than 6 months in duration.\nIf any of the risk factors listed below apply to you:\nYou lived at any time in any malarial endemic area for a continuous period of 6 months or more\nYou ever had malaria\nYou ever had an unexplained fever associated with any malarial endemic area\nPlease click here for more information on Malaria\nSamples can be taken (but not a donation) to include a malaria antibody test:\nIf a minimum of 6 months have elapsed since you left any malaria area\nYou are fully recovered from malaria for at least 3 years (where applicable)\nYou are fully recovered from the unexplained fever for at least 6 months and it is 6 months since you left the malarial area\nYou will be able to attend a clinic 42 days later if the malaria test is negative ( the IBTS will contact you if the  test result is positive) .Once all other criteria are met on future visits a test for malaria will be carried out in our labs every time you donate.",
+    "needsContact": true,
+    "deferrals": [
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "malaria"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "TW",
+    "name": "Taiwan",
+    "rawText": "Tropical illness and Dengue Virus risk - You cannot donate for 90 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "dengue"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "",
+    "name": "Tajikstan",
+    "rawText": "There is a Malaria risk from June-October in some Southern border areas (Khatlon Region) and in some central (Dushanbe), Western (Gorno) Badakhshan), and northern (Leninabad) region areas\nYou cannot donate for 365 days (1 year) from the date you leave the areas above of the country as a visitor only e.g. a holiday / business trip of less than 6 months in duration.\nPlease contact us on our\nDonor Infoline 1800 731 137\nfor advice\n.\nIf any of the risk factors listed below apply to you:\nYou lived at any time in any malarial endemic area for a continuous period of 6 months or more\nYou ever had malaria\nYou ever had an unexplained fever associated with any malarial endemic area\nSamples can be taken (but not a donation) to include a malaria antibody test:\nIf a minimum of 6 months have elapsed since you left any malaria area\nYou are fully recovered from malaria for at least 3 years (where applicable)\nYou are fully recovered from the unexplained fever for at least 6 months and it is 6 months since you left the malarial area\nYou will be able to attend a clinic 42 days later if the malaria test is negative ( the IBTS will contact you if the  test result is positive) .Once all other criteria are met on future visits a test for malaria will be carried out in our labs every time you donate.\nOther travel risks are Travel risks are Tropical illness, Chic V , Dengue Virus risk and Viral hemorrhagic fever (VHF)\nFor more information click\nMalaria",
+    "needsContact": true,
+    "deferrals": [
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "malaria"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "TZ",
+    "name": "Tanzania",
+    "rawText": "There is a Malaria risk  all year in the whole country:\nYou cannot donate for 365 days (1 year) from the date you leave the country as a visitor only e.g. a holiday / business trip of less than 6 months in duration.\nIf any of the risk factors listed below apply to you:\nYou lived at any time in any malarial endemic area for a continuous period of 6 months or more\nYou ever had malaria\nYou ever had an unexplained fever associated with any malarial endemic area\nSamples can be taken (but not a donation) to include a malaria antibody test:\nIf a minimum of 6 months have elapsed since you left any malaria area\nYou are fully recovered from malaria for at least 3 years (where applicable)\nYou are fully recovered from the unexplained fever for at least 6 months and it is 6 months since you left the malarial area\nYou will be able to attend a clinic 42 days later if the malaria test is negative ( the IBTS will contact you if the  test result is positive) .Once all other criteria are met on future visits a test for malaria will be carried out in our labs every time you donate.\nOther travel risks are Travel risks are Tropical illness, Chic V , Dengue Virus risk and Viral hemorrhagic fever (VHF)\nFor more information click\nMalaria\nPlease contact our Donor Infoline 1800 731 137 if you have any questions",
+    "needsContact": true,
+    "deferrals": [
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "malaria"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "TH",
+    "name": "Thailand",
+    "rawText": "Do the risk of malaria you cannot donate for 365 days (1 year) from the date you leave the areas listed below as a visitor only e.g. a holiday / business trip of less than 6 months in duration\nThe Malaria risk is all year in areas along the Cambodian, Laos and Myanmar borders, there is also risk in inland areas of the Surat Thani province.\nNo risk in cities of Bangkok, Chiang Mai, Chiang Rai, Pattaya, Phuket and the islands of Ko Samui and Ko Chang, Koh Phi Phi and the River Quai bridge area.\nNB - travel between areas may include areas where malaria is a risk - Please contact us on our  Donor Infoline 1800 731 137 for advice.\nTropical illness, Chik V, Dengue and Zika Virus risk is all year in whole country\n- You cannot donate for 90 days from the date you leave any part of the  country.\nFrom October 2021, there has been an outbreak of malaria in the Ranong, Songkhla and Trat provinces, including the island of Ko Chang therefore a risk also  applies to these areas.\nThere was a risk of malaria in the whole country prior to 2012\nIf any of the risk factors listed below apply to you:\nYou lived at any time in any malarial endemic area for a continuous period of 6 months or more\nYou ever had malaria\nYou ever had an unexplained fever associated with any malarial endemic area\nSamples can be taken (but not a donation) to include a malaria antibody test:\nIf a minimum of 6 months have elapsed since you left any malaria area\nYou are fully recovered from malaria for at least 3 years (where applicable)\nYou are fully recovered from the unexplained fever for at least 6 months and it is 6 months since you left the malarial area\nYou will be able to attend a clinic 42 days later if the malaria test is negative ( the IBTS will contact you if the  test result is positive) .Once all other criteria are met on future visits a test for malaria will be carried out in our labs every time you donate.\nFor more information click\nMalaria",
+    "needsContact": true,
+    "deferrals": [
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "malaria"
+      },
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "chikungunya"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "TG",
+    "name": "Togo",
+    "rawText": "There is a Malaria risk  all year in the whole country:\nYou cannot donate for 365 days (1 year) from the date you leave the country as a visitor only e.g. a holiday / business trip of less than 6 months in duration.\nOther  travel Risks include  Dengue Virus, Viral Haemorrhagic Fever and Tropical illness risk -\nMalaria : If any of the risk factors listed below apply to you:\nYou lived at any time in any malarial endemic area for a continuous period of 6 months or more\nYou ever had malaria\nYou ever had an unexplained fever associated with any malarial endemic area\nPlease click here for more information on Malaria\nSamples can be taken (but not a donation) to include a malaria antibody test:\nIf a minimum of 6 months have elapsed since you left any malaria area\nYou are fully recovered from malaria for at least 3 years (where applicable)\nYou are fully recovered from the unexplained fever for at least 6 months and it is 6 months since you left the malarial area\nYou will be able to attend a clinic 42 days later if the malaria test is negative ( the IBTS will contact you if the  test result is positive) .Once all other criteria are met on future visits a test for malaria will be carried out in our labs every time you donate.\nFor more information click\nMalaria",
+    "needsContact": true,
+    "deferrals": [
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "malaria"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "TK",
+    "name": "Tokelau",
+    "rawText": "Tropical illness and Chik V Virus risk - You cannot donate for 90 days from the date you leave the country.\nDengue Risk - You cannot donate for 28 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "chikungunya"
+      },
+      {
+        "days": 28,
+        "from": "leave_country",
+        "reason": "dengue"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "TO",
+    "name": "Tonga",
+    "rawText": "Tropical illness Chik V and Zika Virus risk - You cannot donate for 90 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "chikungunya"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "",
+    "name": "Trinidad & Tobago",
+    "rawText": "Tropical illness, Dengue and Zika Virus risk - You cannot donate for 90 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "zika"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "TN",
+    "name": "Tunisia",
+    "rawText": "West Nile Virus (WNV) risk is from the 01 May to 30 November in the whole country.\nThe IBTS tests blood donations for WNV during the most at risk seasons each year. While we are testing, you may be eligible to donate. Please contact us on our\nDonor Infoline 1800 731 137\nfor advice\n.",
+    "needsContact": true,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "TR",
+    "name": "Turkey",
+    "rawText": "There is a Malaria risk  from May to October ( each year)  in the southeastern part of the country, the Syrian and Iraqi borders and in the Cukurova Plain east of Adana.\nYou cannot donate for 365 days (1 year) from the date you leave the areas listed above between May to October  as a visitor only e.g. a holiday / business trip of less than 6 months in duration.\nThere is No malaria risk in the main tourist areas in the west and south-west of the country. No risk for visitors to the popular tourist resorts served by the airports in Bodrum, Antalya and Dalaman.\nThere is a West Nile Virus risk is from 01 May to 30 November in the whole country- the IBTS test for West Nile Virus during the seasonal risk please contact the donor infoline 1800 731 137 about your eligibility to donate\nThere is a Previous malaria risk:\nAll year in Southeast Anatolia from Mersin city to the Iraqi border until Sept. 2000. May to October, in the south-eastern part of the country, the Syrian and Iraqi borders and in the Cukurova as above until August 2017.\nIf any of the risk factors listed below apply to you:\nYou lived at any time in any malarial endemic area for a continuous period of 6 months or more\nYou ever had malaria\nYou ever had an unexplained fever associated with any malarial endemic area\nSamples can be taken (but not a donation) to include a malaria antibody test:\nIf a minimum of 6 months have elapsed since you left any malaria area\nYou are fully recovered from malaria for at least 3 years (where applicable)\nYou are fully recovered from the unexplained fever for at least 6 months and it is 6 months since you left the malarial area\nYou will be able to attend a clinic 42 days later if the malaria test is negative ( the IBTS will contact you if the  test result is positive) .Once all other criteria are met on future visits a test for malaria will be carried out in our labs every time you donate.\nFor more information click\nMalaria",
+    "needsContact": true,
+    "deferrals": [
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "malaria"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "TM",
+    "name": "Turkmenistan",
+    "rawText": "No travel risks.",
+    "needsContact": false,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "",
+    "name": "Turks & Caicos Islands",
+    "rawText": "Tropical illness, Chik V , Dengue Virus and Zika Virus risk - You cannot donate for 90 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "chikungunya"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "TV",
+    "name": "Tuvalu",
+    "rawText": "Tropical illness risk - You cannot donate for 90 days from the date you leave the country.\nDengue Risk - You cannot donate for 28 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "tropical_illness"
+      },
+      {
+        "days": 28,
+        "from": "leave_country",
+        "reason": "dengue"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "UG",
+    "name": "Uganda",
+    "rawText": "There is a Malaria risk all year round in the whole country\nYou cannot donate for 365 days (1 year) from the date you leave the country as a visitor only e.g. a holiday / business trip of less than 6 months in duration.\nOther travel risks are Tropical illness, Dengue, Chic V, Zika Virus & Viral haemorrhagic Fever risk -\nIf any of the risk factors listed below apply to you:\nYou lived at any time in any malarial endemic area for a continuous period of 6 months or more\nYou ever had malaria\nYou ever had an unexplained fever associated with any malarial endemic area\nPlease click here for more information on Malaria\nSamples can be taken (but not a donation) to include a malaria antibody test:\nIf a minimum of 6 months have elapsed since you left any malaria area\nYou are fully recovered from malaria for at least 3 years (where applicable)\nYou are fully recovered from the unexplained fever for at least 6 months and it is 6 months since you left the malarial area\nYou will be able to attend a clinic 42 days later if the malaria test is negative ( the IBTS will contact you if the  test result is positive) .Once all other criteria are met on future visits a test for malaria will be carried out in our labs every time you donate.\nFor more information click\nMalaria",
+    "needsContact": true,
+    "deferrals": [
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "malaria"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "UA",
+    "name": "Ukraine",
+    "rawText": "West Nile Virus (WNV) risk is from the 01 May to 30 November in the whole country.\nThe IBTS tests blood donations for WNV during the most at risk seasons each year. While we are testing, you may be eligible to donate. Please contact us on our\nDonor Infoline 1800 731 137\nfor advice\n.",
+    "needsContact": true,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "AE",
+    "name": "United Arab Emirates (Uae)",
+    "rawText": "Tropical illness risk is all year in southern part of country only, south of Tropic of Cancer (does not include Dubai or Abu Dhabi). You cannot donate for 90 days from the date you leave the country.\nMERS-CoV risk is all year in whole country - You cannot donate for 28 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "tropical_illness"
+      },
+      {
+        "days": 28,
+        "from": "leave_country",
+        "reason": "tropical_illness"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "GB",
+    "name": "United Kingdom",
+    "rawText": "No travel risks.",
+    "needsContact": false,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "US",
+    "name": "United States Of America (Usa)",
+    "rawText": "West Nile Virus risk\nis\nall year in 37 US states:\nAlabama, Maryland, South Carolina, Arizona, Michigan, South Dakota, Arkansas, Minnesota, Tennessee, California, Mississippi, Utah, Colorado, Missouri, Virginia, Delaware, Montana, Washington, Georgia, Nebraska, West Virginia, Idaho, Nevada, Wisconsin, Illinois, New Mexico, Wyoming, Indiana, North Carolina, Iowa, North Dakota, Kansas, Ohio, Kentucky, Oklahoma, Louisiana, Oregan.\nWest Nile Virus risk\nis\na  seasonal risk in Alaska and the North Eastern States:\n01 May to 30th November\nNorth Eastern States:\nConnecticut, New Hampshire, Pennsylvania, Maine, New Jersey, Rhode Island, Massachusetts, New York, Vermont.\nThe IBTS tests blood donations for WNV during the most at risk seasons each year. While we are testing, you may be eligible to donate. Please contact us on our Donor Infoline 1800 731 137 for advice.\nZIKA, Dengue and WNV risk is all year in FLORIDA -\nYou cannot donate for 28 days from the date you leave the country.\nZIKA and WNV risk is all year in TEXAS\n. You cannot donate for 28 days from the date you leave the country.\nTropical risk is all year in HAWAII.\nYou cannot donate for 90 days from the date you leave the country.",
+    "needsContact": true,
+    "deferrals": [
+      {
+        "days": 28,
+        "from": "leave_country",
+        "reason": "zika"
+      },
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "tropical_illness"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "UY",
+    "name": "Uruguay",
+    "rawText": "Dengue Virus risk – You cannot donate for 28 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 28,
+        "from": "leave_country",
+        "reason": "dengue"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "UZ",
+    "name": "Uzbekistan",
+    "rawText": "No travel risks.",
+    "needsContact": false,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "VU",
+    "name": "Vanuatu",
+    "rawText": "There is a Malaria risk is all year in the whole country :\nYou cannot donate for 365 days (1 year) from the date you leave the country as a visitor only e.g. a holiday / business trip of less than 6 months in duration.\nOther travel risks are Tropical illness, Dengue and Zika virus.\nIf any of the risk factors listed below apply to you:\nYou lived at any time in any malarial endemic area for a continuous period of 6 months or more\nYou ever had malaria\nYou ever had an unexplained fever associated with any malarial endemic area\nSamples can be taken (but not a donation) to include a malaria antibody test:\nIf a minimum of 6 months have elapsed since you left any malaria area\nYou are fully recovered from malaria for at least 3 years (where applicable)\nYou are fully recovered from the unexplained fever for at least 6 months and it is 6 months since you left the malarial area\nYou will be able to attend a clinic 42 days later if the malaria test is negative ( the IBTS will contact you if the  test result is positive) .Once all other criteria are met on future visits a test for malaria will be carried out in our labs every time you donate.\nFor more information click\nMalaria",
+    "needsContact": true,
+    "deferrals": [
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "malaria"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "VE",
+    "name": "Venezuela",
+    "rawText": "If you or your mother were born in Venezuela you will not be able to donate due to a risk of Chagas disease\nMalaria risk is all year in the whole country\nYou cannot donate for 365 days (1 year) from the date you leave the country as a visitor only e.g. a holiday / business trip of less than 6 months in duration.\nIf any of the risk factors listed below apply to you:\nYou lived at any time in any malarial endemic area for a continuous period of 6 months or more\nYou ever had malaria\nYou ever had an unexplained fever associated with any malarial endemic area\nSamples can be taken (but not a donation) to include a malaria antibody test:\nIf a minimum of 6 months have elapsed since you left any malaria area\nYou are fully recovered from malaria for at least 3 years (where applicable)\nYou are fully recovered from the unexplained fever for at least 6 months and it is 6 months since you left the malarial area\nYou will be able to attend a clinic 42 days later if the malaria test is negative ( the IBTS will contact you if the  test result is positive) .Once all other criteria are met on future visits a test for malaria will be carried out in our labs every time you donate.\nFor more information click\nMalaria",
+    "needsContact": true,
+    "deferrals": [
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "malaria"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "VN",
+    "name": "Vietnam",
+    "rawText": "Due to the number of travel associated risks in this country, please contact us on our\nDonor Infoline 1800 731 137\nfor advice\n.",
+    "needsContact": true,
+    "deferrals": [],
+    "areas": []
+  },
+  {
+    "code": "US",
+    "name": "Virgin Islands",
+    "rawText": "Tropical illness and Zika Virus risk - You cannot donate for 90 days from the date you leave the country.\nDengue Risk - You cannot donate for 28 days from the date you leave the country.",
+    "needsContact": false,
+    "deferrals": [
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "zika"
+      },
+      {
+        "days": 28,
+        "from": "leave_country",
+        "reason": "dengue"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "YE",
+    "name": "Yemen",
+    "rawText": "The Malaria risk is all year in most of the country. No risk for visitors to Sana'a. You cannot donate for 365 days from the date you leave the country ( exception being Sana'a only ) as a visitor only i.e. following a holiday or business trip of less than 6 months in duration within the last 12 months\nTropical illness, Chik V, Dengue virus and Mers CoV risk is all year in whole country - You cannot donate for 90 days from the date you leave the country.\nPlease contact the donor infoline 1800731 137 if you have any further questions\nIf any of the risk factors listed below apply to you:\nYou lived at any time in any malarial endemic area for a continuous period of 6 months or more\nYou ever had malaria\nYou ever had an unexplained fever associated with any malarial endemic area\nSamples can be taken (but not a donation) to include a malaria antibody test:\nIf a minimum of 6 months have elapsed since you left any malaria area\nYou are fully recovered from malaria for at least 3 years (where applicable)\nYou are fully recovered from the unexplained fever for at least 6 months and it is 6 months since you left the malarial area\nYou will be able to attend a clinic 42 days later if the malaria test is negative ( the IBTS will contact you if the  test result is positive) .Once all other criteria are met on future visits a test for malaria will be carried out in our labs every time you donate.\nFor more information click\nMalaria",
+    "needsContact": true,
+    "deferrals": [
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "malaria"
+      },
+      {
+        "days": 90,
+        "from": "leave_country",
+        "reason": "chikungunya"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "ZM",
+    "name": "Zambia",
+    "rawText": "There is a Malaria risk  all year round in the whole country you cannot donate for 365 days (1 year) from the date you leave the country as a visitor only e.g. a holiday / business trip of less than 6 months in duration.\nIf any of the risk factors listed below apply to you:\nYou lived at any time in any malarial endemic area for a continuous period of 6 months or more\nYou ever had malaria\nYou ever had an unexplained fever associated with any malarial endemic area\nSamples can be taken (but not a donation) to include a malaria antibody test:\nIf a minimum of 6 months have elapsed since you left any malaria area\nYou are fully recovered from malaria for at least 3 years (where applicable)\nYou are fully recovered from the unexplained fever for at least 6 months and it is 6 months since you left the malarial area\nYou will be able to attend a clinic 42 days later if the malaria test is negative ( the IBTS will contact you if the  test result is positive) .Once all other criteria are met on future visits a test for malaria will be carried out in our labs every time you donate.\nFor more information click\nMalaria",
+    "needsContact": true,
+    "deferrals": [
+      {
+        "days": 365,
+        "from": "leave_country",
+        "reason": "malaria"
+      }
+    ],
+    "areas": []
+  },
+  {
+    "code": "ZW",
+    "name": "Zimbabwe",
+    "rawText": "Due to the number of travel associated risks in this country, please contact us on our\nDonor Infoline 1800 731 137\nfor advice\n.",
+    "needsContact": true,
+    "deferrals": [],
+    "areas": []
+  }
+]
