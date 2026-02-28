@@ -29,10 +29,10 @@ function addDays(date, days) {
 
 function App() {
   const [trips, setTrips] = useState([{ country: "", leaveDate: "" }]);
-  const [submitted, setSubmitted] = useState(false);
 
   const result = useMemo(() => {
-    if (!submitted) return null;
+    const hasInput = trips.some((trip) => trip.country && trip.leaveDate);
+    if (!hasInput) return null;
 
     const validTrips = trips.filter((trip) => trip.country && trip.leaveDate);
     if (validTrips.length === 0) {
@@ -87,7 +87,7 @@ function App() {
       reason: latestReason,
       country: latestCountry,
     };
-  }, [submitted, trips]);
+  }, [trips]);
 
   function updateTrip(index, field, value) {
     setTrips((current) =>
@@ -103,11 +103,6 @@ function App() {
     setTrips((current) => current.filter((_, i) => i !== index));
   }
 
-  function onSubmit(event) {
-    event.preventDefault();
-    setSubmitted(true);
-  }
-
   return (
     <main className="app">
       <h1>IBTS Travel Deferral Checker</h1>
@@ -115,7 +110,7 @@ function App() {
         Enter your trips and we will estimate when you can next donate blood.
       </p>
 
-      <form onSubmit={onSubmit} className="card">
+      <section className="card">
         {trips.map((trip, index) => (
           <section className="tripRow" key={`trip-${index}`}>
             <h2>Trip {index + 1}</h2>
@@ -161,9 +156,8 @@ function App() {
           <button type="button" className="secondaryButton" onClick={addTrip}>
             Add another trip
           </button>
-          <button type="submit">Check eligibility</button>
         </div>
-      </form>
+      </section>
 
       {result && (
         <section className="result card">
