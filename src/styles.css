@@ -1,0 +1,116 @@
+:root {
+  font-family: "Avenir Next", "Segoe UI", sans-serif;
+  line-height: 1.4;
+  color: #10222f;
+  background: linear-gradient(160deg, #f4f8fc 0%, #e7eff8 100%);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.app {
+  max-width: 780px;
+  margin: 0 auto;
+  padding: 2rem 1rem 3rem;
+}
+
+h1 {
+  margin: 0 0 0.5rem;
+}
+
+.subtitle {
+  margin: 0 0 1rem;
+}
+
+.card {
+  background: #ffffff;
+  border: 1px solid #dce6f3;
+  border-radius: 14px;
+  padding: 1rem;
+  box-shadow: 0 8px 24px rgba(20, 45, 73, 0.08);
+}
+
+.tripRow {
+  border-bottom: 1px solid #edf2f9;
+  padding-bottom: 1rem;
+  margin-bottom: 1rem;
+}
+
+.tripRow:last-of-type {
+  border-bottom: none;
+  margin-bottom: 0;
+}
+
+label {
+  display: block;
+  font-size: 0.95rem;
+  margin-top: 0.75rem;
+}
+
+select,
+input {
+  width: 100%;
+  margin-top: 0.35rem;
+  padding: 0.65rem 0.7rem;
+  border: 1px solid #bdd0e6;
+  border-radius: 10px;
+  background: #fff;
+  font-size: 1rem;
+}
+
+.actions {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  margin-top: 0.75rem;
+}
+
+button {
+  border: 0;
+  border-radius: 10px;
+  padding: 0.65rem 0.95rem;
+  font-size: 0.95rem;
+  font-weight: 600;
+  background: #0e5ea8;
+  color: #fff;
+  cursor: pointer;
+}
+
+button:hover {
+  filter: brightness(0.95);
+}
+
+.secondaryButton {
+  background: #1b7f46;
+}
+
+.ghostButton {
+  background: transparent;
+  color: #0e5ea8;
+  border: 1px solid #bdd0e6;
+  margin-top: 0.8rem;
+}
+
+.result {
+  margin-top: 1rem;
+}
+
+.result h2 {
+  margin-top: 0;
+}
+
+.detail {
+  color: #35516a;
+  margin-bottom: 0;
+}
+
+@media (max-width: 640px) {
+  .app {
+    padding: 1rem 0.75rem 2rem;
+  }
+}
