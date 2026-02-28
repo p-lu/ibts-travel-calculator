@@ -50,6 +50,17 @@ function App() {
       .map((trip) => ({ trip, rule: rulesByName.get(trip.country) }))
       .filter((item) => item.rule);
 
+    const guidanceByCountry = new Map();
+    selectedRules.forEach(({ trip, rule }) => {
+      if (!guidanceByCountry.has(trip.country)) {
+        guidanceByCountry.set(trip.country, {
+          country: trip.country,
+          rawText: rule.rawText ?? "",
+        });
+      }
+    });
+    const guidance = [...guidanceByCountry.values()];
+
     const mustContact = selectedRules.filter((item) => item.rule.needsContact);
     if (mustContact.length > 0) {
       const contactByCountry = new Map();
@@ -61,7 +72,11 @@ function App() {
           });
         }
       });
-      return { type: "contact", contacts: [...contactByCountry.values()] };
+      return {
+        type: "contact",
+        contactCountries: [...contactByCountry.keys()],
+        guidance,
+      };
     }
 
     let latestDate = null;
@@ -83,7 +98,7 @@ function App() {
     });
 
     if (!latestDate) {
-      return { type: "eligible_now" };
+      return { type: "eligible_now", guidance };
     }
 
     const today = new Date();
@@ -94,7 +109,7 @@ function App() {
     );
 
     if (latestDate <= startOfToday) {
-      return { type: "eligible_now" };
+      return { type: "eligible_now", guidance };
     }
 
     return {
@@ -102,6 +117,7 @@ function App() {
       date: latestDate,
       reason: latestReason,
       country: latestCountry,
+      guidance,
     };
   }, [trips]);
 
@@ -186,19 +202,10 @@ function App() {
               <h2>Please contact IBTS</h2>
               <p>
                 Based on your travel to{" "}
-                <strong>{formatList(result.contacts.map((item) => item.country))}</strong>,
+                <strong>{formatList(result.contactCountries)}</strong>,
                 you should contact the IBTS Donor Infoline for advice:{" "}
                 <strong>{CONTACT_NUMBER}</strong>.
               </p>
-              <div className="guidanceList">
-                {result.contacts.map((item) => (
-                  <GuidanceItem
-                    key={item.country}
-                    country={item.country}
-                    guidance={item.rawText}
-                  />
-                ))}
-              </div>
             </>
           )}
 
@@ -222,6 +229,18 @@ function App() {
                 Longest deferral came from travel to {result.country} ({result.reason}).
               </p>
             </>
+          )}
+
+          {result.guidance?.length > 0 && (
+            <div className="guidanceList">
+              {result.guidance.map((item) => (
+                <GuidanceItem
+                  key={item.country}
+                  country={item.country}
+                  guidance={item.rawText}
+                />
+              ))}
+            </div>
           )}
         </section>
       )}
