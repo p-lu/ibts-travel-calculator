@@ -1,5 +1,6 @@
 import { useMemo, useState } from "react";
 import rules from "../ibts_deferrals.json";
+import GuidanceItem from "./components/GuidanceItem";
 
 const CONTACT_NUMBER = "1800 731 137";
 const DAY_MS = 24 * 60 * 60 * 1000;
@@ -191,11 +192,11 @@ function App() {
               </p>
               <div className="guidanceList">
                 {result.contacts.map((item) => (
-                  <section className="guidanceItem" key={item.country}>
-                    <h3>{item.country}</h3>
-                    <p className="detail">IBTS guidance for this country:</p>
-                    <div className="guidanceText">{item.rawText}</div>
-                  </section>
+                  <GuidanceItem
+                    key={item.country}
+                    country={item.country}
+                    guidance={item.rawText}
+                  />
                 ))}
               </div>
             </>
