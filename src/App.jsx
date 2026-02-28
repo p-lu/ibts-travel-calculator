@@ -27,6 +27,12 @@ function addDays(date, days) {
   return new Date(date.getTime() + days * DAY_MS);
 }
 
+function formatList(items) {
+  if (items.length <= 1) return items[0] ?? "";
+  if (items.length === 2) return `${items[0]} and ${items[1]}`;
+  return `${items.slice(0, -1).join(", ")}, and ${items[items.length - 1]}`;
+}
+
 function App() {
   const [trips, setTrips] = useState([{ country: "", leaveDate: "" }]);
 
@@ -43,9 +49,18 @@ function App() {
       .map((trip) => ({ trip, rule: rulesByName.get(trip.country) }))
       .filter((item) => item.rule);
 
-    const mustContact = selectedRules.find((item) => item.rule.needsContact);
-    if (mustContact) {
-      return { type: "contact", country: mustContact.trip.country };
+    const mustContact = selectedRules.filter((item) => item.rule.needsContact);
+    if (mustContact.length > 0) {
+      const contactByCountry = new Map();
+      mustContact.forEach(({ trip, rule }) => {
+        if (!contactByCountry.has(trip.country)) {
+          contactByCountry.set(trip.country, {
+            country: trip.country,
+            rawText: rule.rawText ?? "",
+          });
+        }
+      });
+      return { type: "contact", contacts: [...contactByCountry.values()] };
     }
 
     let latestDate = null;
@@ -169,9 +184,20 @@ function App() {
             <>
               <h2>Please contact IBTS</h2>
               <p>
-                Based on your travel to <strong>{result.country}</strong>, you should
-                contact the IBTS Donor Infoline for advice: <strong>{CONTACT_NUMBER}</strong>.
+                Based on your travel to{" "}
+                <strong>{formatList(result.contacts.map((item) => item.country))}</strong>,
+                you should contact the IBTS Donor Infoline for advice:{" "}
+                <strong>{CONTACT_NUMBER}</strong>.
               </p>
+              <div className="guidanceList">
+                {result.contacts.map((item) => (
+                  <section className="guidanceItem" key={item.country}>
+                    <h3>{item.country}</h3>
+                    <p className="detail">IBTS guidance for this country:</p>
+                    <div className="guidanceText">{item.rawText}</div>
+                  </section>
+                ))}
+              </div>
             </>
           )}
 
