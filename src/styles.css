@@ -177,11 +177,28 @@ button:hover {
 
 .guidanceText {
   margin-top: 0.45rem;
-  white-space: pre-wrap;
   overflow-wrap: anywhere;
   word-break: break-word;
   color: #10222f;
   line-height: 1.5;
+}
+
+.guidanceText p {
+  margin: 0 0 0.45rem;
+}
+
+.guidanceText ul {
+  margin: 0 0 0.6rem 1.25rem;
+  padding-left: 1rem;
+}
+
+.guidanceText li {
+  margin: 0.15rem 0;
+}
+
+.guidanceText p:last-child,
+.guidanceText ul:last-child {
+  margin-bottom: 0;
 }
 
 /* Responsive */
