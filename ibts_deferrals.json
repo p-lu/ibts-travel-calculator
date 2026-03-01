@@ -23,7 +23,12 @@
     "name": "Albania",
     "rawText": "There is a West Nile Virus (WNV) risk  from the 01 May to 30 November in the whole country.\nThe IBTS tests blood donations for WNV during the most at risk seasons each year. While we are testing, you may be eligible to donate. Please contact us on our Donor Infoline 1800 731 137 for advice.",
     "needsContact": true,
-    "deferrals": [],
+    "deferrals": [
+      {
+        "type": "wnv_seasonal_testing",
+        "reason": "wnv_seasonal_testing"
+      }
+    ],
     "areas": []
   },
   {
@@ -137,7 +142,12 @@
     "name": "Armenia",
     "rawText": "West Nile Virus (WNV) risk is from the 01 May to 30 November in the whole country.\nThe IBTS tests blood donations for WNV during the most at risk seasons each year. While we are testing, you may be eligible to donate. Please contact us on our Donor Infoline 1800 731 137 for advice.",
     "needsContact": true,
-    "deferrals": [],
+    "deferrals": [
+      {
+        "type": "wnv_seasonal_testing",
+        "reason": "wnv_seasonal_testing"
+      }
+    ],
     "areas": []
   },
   {
@@ -178,7 +188,12 @@
     "name": "Austria",
     "rawText": "West Nile Virus (WNV) risk is from the 01 May to 30 November in the whole country.\nThe IBTS tests blood donations for WNV during the most at risk seasons each year. While we are testing, you may be eligible to donate. Please contact us on our Donor Infoline 1800 731 137 for advice.",
     "needsContact": true,
-    "deferrals": [],
+    "deferrals": [
+      {
+        "type": "wnv_seasonal_testing",
+        "reason": "wnv_seasonal_testing"
+      }
+    ],
     "areas": []
   },
   {
@@ -368,7 +383,12 @@
     "name": "Bonaire",
     "rawText": "West Nile Virus (WNV) risk is from the 01 May to 30 November in the whole country.\nThe IBTS tests blood donations for WNV during the most at risk seasons each year. While we are testing, you may be eligible to donate. Please contact us on our Donor Infoline 1800 731 137 for advice.",
     "needsContact": true,
-    "deferrals": [],
+    "deferrals": [
+      {
+        "type": "wnv_seasonal_testing",
+        "reason": "wnv_seasonal_testing"
+      }
+    ],
     "areas": []
   },
   {
@@ -390,7 +410,12 @@
     "name": "Bosnia & Herzegovina",
     "rawText": "West Nile Virus risk is from  01 May  to  30 November  in the whole country. The IBTS tests for West Nile Virus during the most at risk season each year. While we are testing you may be able to donate . Please contact us on Donor Infoline 1800731 137 for advice.",
     "needsContact": true,
-    "deferrals": [],
+    "deferrals": [
+      {
+        "type": "wnv_seasonal_testing",
+        "reason": "wnv_seasonal_testing"
+      }
+    ],
     "areas": []
   },
   {
@@ -436,7 +461,12 @@
     "name": "Bulgaria",
     "rawText": "West Nile Virus (WNV) risk is from the 01 May to 30 November in the whole country.\nThe IBTS tests blood donations for WNV during the most at risk seasons each year. While we are testing, the deferral period of 28 days after leaving an at risk area does not apply.",
     "needsContact": false,
-    "deferrals": [],
+    "deferrals": [
+      {
+        "type": "wnv_seasonal_testing",
+        "reason": "wnv_seasonal_testing"
+      }
+    ],
     "areas": []
   },
   {
@@ -518,7 +548,12 @@
     "name": "Canada",
     "rawText": "West Nile Virus (WNV) risk is from the 01 May to 30 November in the whole country.\nThe IBTS tests blood donations for WNV during the most at risk seasons each year. While we are testing, you may be eligible to donate. Please contact us on our Donor Infoline 1800 731 137 for advice.",
     "needsContact": true,
-    "deferrals": [],
+    "deferrals": [
+      {
+        "type": "wnv_seasonal_testing",
+        "reason": "wnv_seasonal_testing"
+      }
+    ],
     "areas": []
   },
   {
@@ -723,7 +758,12 @@
     "name": "Croatia",
     "rawText": "West Nile Virus (WNV) risk is from the 01 May to 30 November in the whole country.\nThe IBTS tests blood donations for WNV during the most at risk seasons each year. While we are testing, you may be eligible to donate. Please contact us on our Donor Infoline 1800 731 137 for advice.",
     "needsContact": true,
-    "deferrals": [],
+    "deferrals": [
+      {
+        "type": "wnv_seasonal_testing",
+        "reason": "wnv_seasonal_testing"
+      }
+    ],
     "areas": []
   },
   {
@@ -764,7 +804,12 @@
     "name": "Cyprus",
     "rawText": "West Nile Virus (WNV) risk is from the 01 May to 30 November in the whole country.\nThe Malaria risk dates from  August 1st  2017 and affects  Esentepe (also known as Agios Amvrosios)\nonly, which is in in the Kyrenia District in Northern Cyprus. There is no risk in other areas.\nThe IBTS tests blood donations for WNV during the most at risk seasons each year. While we are testing, you may be eligible to donate. Please contact us on our Donor Infoline 1800 731 137 for advice.",
     "needsContact": true,
-    "deferrals": [],
+    "deferrals": [
+      {
+        "type": "wnv_seasonal_testing",
+        "reason": "wnv_seasonal_testing"
+      }
+    ],
     "areas": []
   },
   {
@@ -772,7 +817,12 @@
     "name": "Czech Repuplic",
     "rawText": "West Nile Virus (WNV) risk is from the 01 May to 30 November in the whole country.\nThe IBTS tests blood donations for WNV during the most at risk seasons each year. While we are testing, you may be eligible to donate. Please contact us on our Donor Infoline 1800 731 137 for advice.",
     "needsContact": true,
-    "deferrals": [],
+    "deferrals": [
+      {
+        "type": "wnv_seasonal_testing",
+        "reason": "wnv_seasonal_testing"
+      }
+    ],
     "areas": []
   },
   {
@@ -1062,7 +1112,12 @@
     "name": "Germany",
     "rawText": "West Nile Virus (WNV) risk is from the 01 May to 30 November in the whole country.\nThe IBTS tests blood donations for WNV during the most at risk seasons each year. While we are testing, you may be eligible to donate. Please contact us on our Donor Infoline 1800 731 137 for advice",
     "needsContact": true,
-    "deferrals": [],
+    "deferrals": [
+      {
+        "type": "wnv_seasonal_testing",
+        "reason": "wnv_seasonal_testing"
+      }
+    ],
     "areas": []
   },
   {
@@ -1092,7 +1147,12 @@
     "name": "Greece",
     "rawText": "The malaria risk is in the whole country, including mainland Greece and the Greek Islands, but not Athens, from May 1st 2017 to November 30th 2017.  There was no risk in the Greek Islands prior to 01 May 2017.  NB The malarial risk for donors to any part of Greece will end after 30 November 2017.\nWest Nile Virus risk is from 01 May to 30 November in the whole country (including Athens). The IBTS tests blood donations for WNV during the most at risk seasons each year. While we are testing, you may be eligible to donate. Please contact us on our Donor Infoline 1800 731 137 for advice.",
     "needsContact": true,
-    "deferrals": [],
+    "deferrals": [
+      {
+        "type": "wnv_seasonal_testing",
+        "reason": "wnv_seasonal_testing"
+      }
+    ],
     "areas": []
   },
   {
@@ -1257,7 +1317,12 @@
     "name": "Hungary",
     "rawText": "West Nile Virus (WNV) risk is from the 01 May to 30 November in the whole country.\nThe IBTS tests blood donations for WNV during the most at risk seasons each year. While we are testing, you may be eligible to donate. Please contact us on our Donor Infoline 1800 731 137 for advice.",
     "needsContact": true,
-    "deferrals": [],
+    "deferrals": [
+      {
+        "type": "wnv_seasonal_testing",
+        "reason": "wnv_seasonal_testing"
+      }
+    ],
     "areas": []
   },
   {
@@ -1305,7 +1370,12 @@
     "name": "Israel",
     "rawText": "West Nile Virus (WNV) risk is from the 01 May to 30 November in the whole country.\nThe IBTS tests blood donations for WNV during the most at risk seasons each year. While we are testing, you may be eligible to donate. Please contact us on our Donor Infoline 1800 731 137 for advice.",
     "needsContact": true,
-    "deferrals": [],
+    "deferrals": [
+      {
+        "type": "wnv_seasonal_testing",
+        "reason": "wnv_seasonal_testing"
+      }
+    ],
     "areas": []
   },
   {
@@ -1323,6 +1393,10 @@
         "days": 28,
         "from": "leave_country",
         "reason": "chikungunya"
+      },
+      {
+        "type": "wnv_seasonal_testing",
+        "reason": "wnv_seasonal_testing"
       }
     ],
     "areas": []
@@ -1414,7 +1488,12 @@
     "name": "Kosovo",
     "rawText": "West Nile Virus (WNV) risk is from the 01 May to 30 November in the whole country.\nThe IBTS tests blood donations for WNV during the most at risk seasons each year. While we are testing, you may be eligible to donate. Please contact us on our Donor Infoline 1800 731 137 for advice.",
     "needsContact": true,
-    "deferrals": [],
+    "deferrals": [
+      {
+        "type": "wnv_seasonal_testing",
+        "reason": "wnv_seasonal_testing"
+      }
+    ],
     "areas": []
   },
   {
@@ -1566,7 +1645,12 @@
     "name": "Macedonia",
     "rawText": "West Nile Virus (WNV) risk is from the 01 May to 30 November in the whole country.\nThe IBTS tests blood donations for WNV during the most at risk seasons each year. While we are testing, you may be eligible to donate. Please contact us on our Donor Infoline 1800 731 137 for advice.",
     "needsContact": true,
-    "deferrals": [],
+    "deferrals": [
+      {
+        "type": "wnv_seasonal_testing",
+        "reason": "wnv_seasonal_testing"
+      }
+    ],
     "areas": []
   },
   {
@@ -1767,7 +1851,12 @@
     "name": "Moldova",
     "rawText": "West Nile Virus (WNV) risk is from the 01 May to 30 November in the whole country.\nThe IBTS tests blood donations for WNV during the most at risk seasons each year. While we are testing, you may be eligible to donate. Please contact us on our Donor Infoline 1800 731 137 for advice.",
     "needsContact": true,
-    "deferrals": [],
+    "deferrals": [
+      {
+        "type": "wnv_seasonal_testing",
+        "reason": "wnv_seasonal_testing"
+      }
+    ],
     "areas": []
   },
   {
@@ -1797,7 +1886,12 @@
     "name": "Montenegro",
     "rawText": "West Nile Virus (WNV) risk is from the 01 May to 30 November in the whole country.\nThe IBTS tests blood donations for WNV during the most at risk seasons each year. While we are testing, you may be eligible to donate. Please contact us on our Donor Infoline 1800 731 137 for advice.",
     "needsContact": true,
-    "deferrals": [],
+    "deferrals": [
+      {
+        "type": "wnv_seasonal_testing",
+        "reason": "wnv_seasonal_testing"
+      }
+    ],
     "areas": []
   },
   {
@@ -2070,7 +2164,12 @@
     "name": "Palestine (The State Of, Includes; Gaza, West Bank And East Jerusalem)",
     "rawText": "West Nile Virus (WNV) risk is from the 01 May to 30 November in the whole country.\nThe IBTS tests blood donations for WNV during the most at risk seasons each year. While we are testing, you may be eligible to donate. Please contact us on our Donor Infoline 1800 731 137 for advice.",
     "needsContact": true,
-    "deferrals": [],
+    "deferrals": [
+      {
+        "type": "wnv_seasonal_testing",
+        "reason": "wnv_seasonal_testing"
+      }
+    ],
     "areas": []
   },
   {
@@ -2168,7 +2267,12 @@
     "name": "Portugal",
     "rawText": "West Nile Virus risk is from 01 May to 30 November in The Algarve area only; including cities of Faro, Albufeira, Lagos, Olhao & Portimao and the resorts of Vilamoura, Praia de Rocha and Alvor.\nThe IBTS tests blood donations for WNV during the most at risk seasons each year. While we are testing, you may be eligible to donate. Please contact us on our Donor Infoline 1800 731 137 for advice.",
     "needsContact": true,
-    "deferrals": [],
+    "deferrals": [
+      {
+        "type": "wnv_seasonal_testing",
+        "reason": "wnv_seasonal_testing"
+      }
+    ],
     "areas": []
   },
   {
@@ -2218,7 +2322,12 @@
     "name": "Romania",
     "rawText": "West Nile Virus (WNV) risk is from the 01 May to 30 November in the whole country.\nThe IBTS tests blood donations for WNV during the most at risk seasons each year. While we are testing, you may be eligible to donate. Please contact us on our Donor Infoline 1800 731 137 for advice.",
     "needsContact": true,
-    "deferrals": [],
+    "deferrals": [
+      {
+        "type": "wnv_seasonal_testing",
+        "reason": "wnv_seasonal_testing"
+      }
+    ],
     "areas": []
   },
   {
@@ -2226,7 +2335,12 @@
     "name": "Russia",
     "rawText": "West Nile Virus (WNV) risk is from the 01 May to 30 November in the whole country.\nThe IBTS tests blood donations for WNV during the most at risk seasons each year. While we are testing, you may be eligible to donate. Please contact us on our Donor Infoline 1800 731 137 for advice.",
     "needsContact": true,
-    "deferrals": [],
+    "deferrals": [
+      {
+        "type": "wnv_seasonal_testing",
+        "reason": "wnv_seasonal_testing"
+      }
+    ],
     "areas": []
   },
   {
@@ -2327,7 +2441,12 @@
     "name": "Serbia",
     "rawText": "West Nile Virus (WNV) risk is from the 01 May to 30 November in the whole country.\nThe IBTS tests blood donations for WNV during the most at risk seasons each year. While we are testing, you may be eligible to donate. Please contact us on our Donor Infoline 1800 731 137 for advice.",
     "needsContact": true,
-    "deferrals": [],
+    "deferrals": [
+      {
+        "type": "wnv_seasonal_testing",
+        "reason": "wnv_seasonal_testing"
+      }
+    ],
     "areas": []
   },
   {
@@ -2382,7 +2501,12 @@
     "name": "Slovakia",
     "rawText": "West Nile Virus (WNV) risk is from the 01 May to 30 November in the whole country.\nThe IBTS tests blood donations for WNV during the most at risk seasons each year. While we are testing, you may be eligible to donate. Please contact us on our Donor Infoline 1800 731 137 for advice",
     "needsContact": true,
-    "deferrals": [],
+    "deferrals": [
+      {
+        "type": "wnv_seasonal_testing",
+        "reason": "wnv_seasonal_testing"
+      }
+    ],
     "areas": []
   },
   {
@@ -2390,7 +2514,12 @@
     "name": "Slovenia",
     "rawText": "West Nile Virus (WNV) risk is from the 01 May to 30 November in the whole country.\nThe IBTS tests blood donations for WNV during the most at risk seasons each year. While we are testing, you may be eligible to donate. Please contact us on our Donor Infoline 1800 731 137 for advice",
     "needsContact": true,
-    "deferrals": [],
+    "deferrals": [
+      {
+        "type": "wnv_seasonal_testing",
+        "reason": "wnv_seasonal_testing"
+      }
+    ],
     "areas": []
   },
   {
@@ -2464,6 +2593,10 @@
         "days": 28,
         "from": "travel",
         "reason": "dengue"
+      },
+      {
+        "type": "wnv_seasonal_testing",
+        "reason": "wnv_seasonal_testing"
       }
     ],
     "areas": []
@@ -2783,7 +2916,12 @@
     "name": "Tunisia",
     "rawText": "West Nile Virus (WNV) risk is from the 01 May to 30 November in the whole country.\nThe IBTS tests blood donations for WNV during the most at risk seasons each year. While we are testing, you may be eligible to donate. Please contact us on our Donor Infoline 1800 731 137 for advice.",
     "needsContact": true,
-    "deferrals": [],
+    "deferrals": [
+      {
+        "type": "wnv_seasonal_testing",
+        "reason": "wnv_seasonal_testing"
+      }
+    ],
     "areas": []
   },
   {
@@ -2796,6 +2934,10 @@
         "days": 365,
         "from": "leave_country",
         "reason": "malaria"
+      },
+      {
+        "type": "wnv_seasonal_testing",
+        "reason": "wnv_seasonal_testing"
       }
     ],
     "areas": []
@@ -2860,7 +3002,12 @@
     "name": "Ukraine",
     "rawText": "West Nile Virus (WNV) risk is from the 01 May to 30 November in the whole country.\nThe IBTS tests blood donations for WNV during the most at risk seasons each year. While we are testing, you may be eligible to donate. Please contact us on our Donor Infoline 1800 731 137 for advice.",
     "needsContact": true,
-    "deferrals": [],
+    "deferrals": [
+      {
+        "type": "wnv_seasonal_testing",
+        "reason": "wnv_seasonal_testing"
+      }
+    ],
     "areas": []
   },
   {
@@ -2905,6 +3052,10 @@
         "days": 90,
         "from": "leave_country",
         "reason": "tropical_illness"
+      },
+      {
+        "type": "wnv_seasonal_testing",
+        "reason": "wnv_seasonal_testing"
       }
     ],
     "areas": []

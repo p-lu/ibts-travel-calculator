@@ -34,6 +34,26 @@ function formatList(items) {
   return `${items.slice(0, -1).join(", ")}, and ${items[items.length - 1]}`;
 }
 
+function isWnvSeasonalTestingDeferral(deferral) {
+  return deferral?.type === "wnv_seasonal_testing";
+}
+
+function isWaitDeferral(deferral) {
+  return !deferral?.type || deferral.type === "wait_days";
+}
+
+function hasWaitDeferral(rule) {
+  return (rule.deferrals ?? []).some(
+    (deferral) => isWaitDeferral(deferral) && typeof deferral.days === "number",
+  );
+}
+
+function isWnvOnlySeasonalRule(rule) {
+  const deferrals = rule.deferrals ?? [];
+  const hasWnvSeasonalTesting = deferrals.some(isWnvSeasonalTestingDeferral);
+  return hasWnvSeasonalTesting && !hasWaitDeferral(rule);
+}
+
 function App() {
   const [trips, setTrips] = useState([{ country: "", leaveDate: "" }]);
 
@@ -50,6 +70,10 @@ function App() {
       .map((trip) => ({ trip, rule: rulesByName.get(trip.country) }))
       .filter((item) => item.rule);
 
+    const hasWnvConditionalEligibility = selectedRules.some(({ rule }) =>
+      (rule.deferrals ?? []).some(isWnvSeasonalTestingDeferral),
+    );
+
     const guidanceByCountry = new Map();
     selectedRules.forEach(({ trip, rule }) => {
       if (!guidanceByCountry.has(trip.country)) {
@@ -61,7 +85,9 @@ function App() {
     });
     const guidance = [...guidanceByCountry.values()];
 
-    const mustContact = selectedRules.filter((item) => item.rule.needsContact);
+    const mustContact = selectedRules.filter(
+      (item) => item.rule.needsContact && !isWnvOnlySeasonalRule(item.rule),
+    );
     if (mustContact.length > 0) {
       const contactByCountry = new Map();
       mustContact.forEach(({ trip, rule }) => {
@@ -88,6 +114,8 @@ function App() {
       if (!leaveDate) return;
 
       rule.deferrals.forEach((deferral) => {
+        if (!isWaitDeferral(deferral)) return;
+        if (typeof deferral.days !== "number") return;
         const candidate = addDays(leaveDate, deferral.days);
         if (!latestDate || candidate > latestDate) {
           latestDate = candidate;
@@ -98,6 +126,9 @@ function App() {
     });
 
     if (!latestDate) {
+      if (hasWnvConditionalEligibility) {
+        return { type: "eligible_now_conditional", guidance };
+      }
       return { type: "eligible_now", guidance };
     }
 
@@ -109,6 +140,9 @@ function App() {
     );
 
     if (latestDate <= startOfToday) {
+      if (hasWnvConditionalEligibility) {
+        return { type: "eligible_now_conditional", guidance };
+      }
       return { type: "eligible_now", guidance };
     }
 
@@ -215,6 +249,22 @@ function App() {
               <p>
                 No active travel deferral was found from the locations and dates
                 entered.
+              </p>
+            </>
+          )}
+
+          {result.type === "eligible_now_conditional" && (
+            <>
+              <h2>You may be eligible now (WNV seasonal testing applies)</h2>
+              <p>
+                Your travel includes a West Nile Virus (WNV) risk area. IBTS
+                usually tests donations during the WNV season (01 May to 30
+                November), so a 28-day wait often does not apply while testing
+                is active.
+              </p>
+              <p>
+                Final eligibility is confirmed at donation screening. If unsure,
+                contact the Donor Infoline: <strong>{CONTACT_NUMBER}</strong>.
               </p>
             </>
           )}
