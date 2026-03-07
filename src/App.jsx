@@ -170,7 +170,12 @@ function App() {
     <main className="app">
       <h1>IBTS Travel Deferral Checker</h1>
       <p className="subtitle">
-        Enter your trips and we will estimate when you can next donate blood.
+        Enter your trips to estimate when you can next donate blood per IBTS guidance.
+      </p>
+      <p className="disclaimer">
+        This tool is not affiliated with the IBTS. Travel
+        deferral data may be incomplete or incorrect, so always confirm your
+        eligibility with official IBTS guidance before donating.
       </p>
 
       <section className="card">

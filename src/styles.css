@@ -29,6 +29,15 @@ h1 {
   margin: 0 0 1rem;
 }
 
+.disclaimer {
+  margin: 0 0 1.25rem;
+  padding: 0.85rem 1rem;
+  border: 1px solid #f0d7a6;
+  border-radius: 12px;
+  background: #fff8e8;
+  color: #6a4a12;
+}
+
 /* Cards and trip rows */
 .card {
   background: #ffffff;
