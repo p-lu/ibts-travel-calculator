@@ -106,7 +106,6 @@ function App() {
     }
 
     let latestDate = null;
-    let latestReason = "";
     let latestCountry = "";
 
     selectedRules.forEach(({ trip, rule }) => {
@@ -119,7 +118,6 @@ function App() {
         const candidate = addDays(leaveDate, deferral.days);
         if (!latestDate || candidate > latestDate) {
           latestDate = candidate;
-          latestReason = deferral.reason;
           latestCountry = trip.country;
         }
       });
@@ -149,7 +147,6 @@ function App() {
     return {
       type: "eligible_later",
       date: latestDate,
-      reason: latestReason,
       country: latestCountry,
       guidance,
     };
@@ -276,7 +273,7 @@ function App() {
                 You can next donate on <strong>{formatDate(result.date)}</strong>.
               </p>
               <p className="detail">
-                Longest deferral came from travel to {result.country} ({result.reason}).
+                Your latest wait period is based on your trip to <strong>{result.country}</strong>.
               </p>
             </>
           )}

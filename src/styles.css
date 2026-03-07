@@ -51,14 +51,15 @@ h1 {
 
 /* Form controls */
 label {
-  display: block;
+  display: flex;
+  flex-direction: column;
   font-size: 0.95rem;
   margin-top: 0.75rem;
 }
 
 select,
 input {
-  width: 100%;
+  width: 40%;
   margin-top: 0.35rem;
   padding: 0.65rem 0.7rem;
   border: 1px solid #bdd0e6;
