@@ -1,156 +1,23 @@
 import { useMemo, useState } from "react";
 import rules from "../ibts_deferrals.json";
 import GuidanceItem from "./components/GuidanceItem";
+import {
+  buildCountries,
+  buildRulesByName,
+  calculateEligibility,
+  formatDate,
+  formatList,
+} from "./lib/eligibility";
 
 const CONTACT_NUMBER = "1800 731 137";
-const DAY_MS = 24 * 60 * 60 * 1000;
 
-const countries = [...rules]
-  .map((entry) => entry.name)
-  .filter(Boolean)
-  .sort((a, b) => a.localeCompare(b));
-
-const rulesByName = new Map(rules.map((entry) => [entry.name, entry]));
-
-function formatDate(date) {
-  return new Intl.DateTimeFormat("en-IE", {
-    dateStyle: "long",
-  }).format(date);
-}
-
-function toDate(dateText) {
-  if (!dateText) return null;
-  const date = new Date(`${dateText}T00:00:00`);
-  return Number.isNaN(date.getTime()) ? null : date;
-}
-
-function addDays(date, days) {
-  return new Date(date.getTime() + days * DAY_MS);
-}
-
-function formatList(items) {
-  if (items.length <= 1) return items[0] ?? "";
-  if (items.length === 2) return `${items[0]} and ${items[1]}`;
-  return `${items.slice(0, -1).join(", ")}, and ${items[items.length - 1]}`;
-}
-
-function isWnvSeasonalTestingDeferral(deferral) {
-  return deferral?.type === "wnv_seasonal_testing";
-}
-
-function isWaitDeferral(deferral) {
-  return !deferral?.type || deferral.type === "wait_days";
-}
-
-function hasWaitDeferral(rule) {
-  return (rule.deferrals ?? []).some(
-    (deferral) => isWaitDeferral(deferral) && typeof deferral.days === "number",
-  );
-}
-
-function isWnvOnlySeasonalRule(rule) {
-  const deferrals = rule.deferrals ?? [];
-  const hasWnvSeasonalTesting = deferrals.some(isWnvSeasonalTestingDeferral);
-  return hasWnvSeasonalTesting && !hasWaitDeferral(rule);
-}
+const countries = buildCountries(rules);
+const rulesByName = buildRulesByName(rules);
 
 function App() {
   const [trips, setTrips] = useState([{ country: "", leaveDate: "" }]);
 
-  const result = useMemo(() => {
-    const hasInput = trips.some((trip) => trip.country && trip.leaveDate);
-    if (!hasInput) return null;
-
-    const validTrips = trips.filter((trip) => trip.country && trip.leaveDate);
-    if (validTrips.length === 0) {
-      return { type: "empty" };
-    }
-
-    const selectedRules = validTrips
-      .map((trip) => ({ trip, rule: rulesByName.get(trip.country) }))
-      .filter((item) => item.rule);
-
-    const hasWnvConditionalEligibility = selectedRules.some(({ rule }) =>
-      (rule.deferrals ?? []).some(isWnvSeasonalTestingDeferral),
-    );
-
-    const guidanceByCountry = new Map();
-    selectedRules.forEach(({ trip, rule }) => {
-      if (!guidanceByCountry.has(trip.country)) {
-        guidanceByCountry.set(trip.country, {
-          country: trip.country,
-          rawText: rule.rawText ?? "",
-        });
-      }
-    });
-    const guidance = [...guidanceByCountry.values()];
-
-    const mustContact = selectedRules.filter(
-      (item) => item.rule.needsContact && !isWnvOnlySeasonalRule(item.rule),
-    );
-    if (mustContact.length > 0) {
-      const contactByCountry = new Map();
-      mustContact.forEach(({ trip, rule }) => {
-        if (!contactByCountry.has(trip.country)) {
-          contactByCountry.set(trip.country, {
-            country: trip.country,
-            rawText: rule.rawText ?? "",
-          });
-        }
-      });
-      return {
-        type: "contact",
-        contactCountries: [...contactByCountry.keys()],
-        guidance,
-      };
-    }
-
-    let latestDate = null;
-    let latestCountry = "";
-
-    selectedRules.forEach(({ trip, rule }) => {
-      const leaveDate = toDate(trip.leaveDate);
-      if (!leaveDate) return;
-
-      rule.deferrals.forEach((deferral) => {
-        if (!isWaitDeferral(deferral)) return;
-        if (typeof deferral.days !== "number") return;
-        const candidate = addDays(leaveDate, deferral.days);
-        if (!latestDate || candidate > latestDate) {
-          latestDate = candidate;
-          latestCountry = trip.country;
-        }
-      });
-    });
-
-    if (!latestDate) {
-      if (hasWnvConditionalEligibility) {
-        return { type: "eligible_now_conditional", guidance };
-      }
-      return { type: "eligible_now", guidance };
-    }
-
-    const today = new Date();
-    const startOfToday = new Date(
-      today.getFullYear(),
-      today.getMonth(),
-      today.getDate(),
-    );
-
-    if (latestDate <= startOfToday) {
-      if (hasWnvConditionalEligibility) {
-        return { type: "eligible_now_conditional", guidance };
-      }
-      return { type: "eligible_now", guidance };
-    }
-
-    return {
-      type: "eligible_later",
-      date: latestDate,
-      country: latestCountry,
-      guidance,
-    };
-  }, [trips]);
+  const result = useMemo(() => calculateEligibility(trips, rulesByName), [trips]);
 
   function updateTrip(index, field, value) {
     setTrips((current) =>
