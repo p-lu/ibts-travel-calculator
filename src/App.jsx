@@ -17,11 +17,16 @@ const rulesByName = buildRulesByName(rules);
 function App() {
   const [trips, setTrips] = useState([{ country: "", leaveDate: "" }]);
 
-  const result = useMemo(() => calculateEligibility(trips, rulesByName), [trips]);
+  const result = useMemo(
+    () => calculateEligibility(trips, rulesByName),
+    [trips],
+  );
 
   function updateTrip(index, field, value) {
     setTrips((current) =>
-      current.map((trip, i) => (i === index ? { ...trip, [field]: value } : trip)),
+      current.map((trip, i) =>
+        i === index ? { ...trip, [field]: value } : trip,
+      ),
     );
   }
 
@@ -37,12 +42,19 @@ function App() {
     <main className="app">
       <h1>IBTS Travel Deferral Checker</h1>
       <p className="subtitle">
-        Enter your trips to estimate when you can next donate blood per IBTS guidance.
+        Enter your trips to estimate when you can next donate blood per IBTS
+        guidance.
+      </p>
+      <p>
+        Source data from the{" "}
+        <a href="https://www.giveblood.ie/can-i-give-blood/faqs/travel-by-country/">
+          IBTS Travel FAQ
+        </a>
       </p>
       <p className="disclaimer">
-        This tool is not affiliated with the IBTS. Travel
-        deferral data may be incomplete or incorrect, so always confirm your
-        eligibility with official IBTS guidance before donating.
+        This tool is not affiliated with the IBTS. Travel deferral data may be
+        incomplete or incorrect, so always confirm your eligibility with
+        official IBTS guidance before donating.
       </p>
 
       <section className="card">
@@ -53,7 +65,9 @@ function App() {
               Country or territory
               <select
                 value={trip.country}
-                onChange={(event) => updateTrip(index, "country", event.target.value)}
+                onChange={(event) =>
+                  updateTrip(index, "country", event.target.value)
+                }
                 required
               >
                 <option value="">Select a location</option>
@@ -70,7 +84,9 @@ function App() {
               <input
                 type="date"
                 value={trip.leaveDate}
-                onChange={(event) => updateTrip(index, "leaveDate", event.target.value)}
+                onChange={(event) =>
+                  updateTrip(index, "leaveDate", event.target.value)
+                }
                 required
               />
             </label>
@@ -105,8 +121,8 @@ function App() {
               <h2>Please contact IBTS</h2>
               <p>
                 Based on your travel to{" "}
-                <strong>{formatList(result.contactCountries)}</strong>,
-                you should contact the IBTS Donor Infoline for advice:{" "}
+                <strong>{formatList(result.contactCountries)}</strong>, you
+                should contact the IBTS Donor Infoline for advice:{" "}
                 <strong>{CONTACT_NUMBER}</strong>.
               </p>
             </>
@@ -142,10 +158,12 @@ function App() {
             <>
               <h2>Next estimated donation date</h2>
               <p>
-                You can next donate on <strong>{formatDate(result.date)}</strong>.
+                You can next donate on{" "}
+                <strong>{formatDate(result.date)}</strong>.
               </p>
               <p className="detail">
-                Your latest wait period is based on your trip to <strong>{result.country}</strong>.
+                Your latest wait period is based on your trip to{" "}
+                <strong>{result.country}</strong>.
               </p>
             </>
           )}
